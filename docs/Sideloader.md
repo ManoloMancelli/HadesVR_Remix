@@ -11,7 +11,9 @@ It's also fitted with my custom SteamVR core board which has built-in gyroscope.
 
 Current version is 1.2.1
 
-You can see the video [here](https://youtu.be/I-BfNhqAvuw)
+You can check out the video [here](https://youtu.be/I-BfNhqAvuw)
+
+CAD files are available on my [Patreon](https://www.patreon.com/posts/125355897/)
 
 # Sideloader ECX
 Sideloader ECX is a DiY wearable device, which acts as a super simple Augmented Reality display.
