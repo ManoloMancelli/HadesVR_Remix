@@ -1,5 +1,5 @@
 # Sideloader V
-![1](/img/sideloaderv.png)
+![1](docs/img/sideloaderv.png)
 
 Sideloader V is a total conversion of the Vufine wearable display.
 
