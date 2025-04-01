@@ -3,7 +3,7 @@
 ![name](docs/img/name.png)
 
 [![Discord](docs/img/Discord.png)](https://discord.gg/h2SFGEbuRH)
-Official HadesVR Discord[feel free to join.](https://discord.gg/h2SFGEbuRH)
+Official HadesVR Discord [feel free to join.](https://discord.gg/h2SFGEbuRH)
 
 # HadesVR       [![Release](https://img.shields.io/github/v/release/HadesVR/HadesVR.svg)](../../releases/latest)
 HadesVR is a SteamVR compatible VR setup made for tinkerers. 
