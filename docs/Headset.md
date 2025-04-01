@@ -25,7 +25,6 @@ For the main microcontroller you absolutely need to use board that uses [Arduino
 
 Ideal board is the Arduino Pro Micro - it's based on the Atmega32u4 and it's super small
 
-Also needed are:
 * Gyroscope - MPU9250 is the best one but you can use cheaper ones at your own risk.
 
 * NRF24L01 - Wireless receiver for the Controllers communication
