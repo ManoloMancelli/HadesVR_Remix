@@ -33,11 +33,5 @@ As of right now the custom hardware available is:
 * [HadesVR Basic HMD PCB](https://github.com/HadesVR/Basic-HMD-PCB) 
 * [HadesVR Wand Controllers](https://github.com/HadesVR/Wand-Controller)
 
-
-### ⚠️Important disclaimer: I **very** very heavily discourage against building the knuckles controller, it's got a whole lot of problems right now that I haven't gotten around to fixing yet, there's problems with the boards and there's problems with the 3d printer models, and there's problems with the reliability of the capacitive sensors of each finger. The index controller is not an easy build: it relies on a lot of SMD components, stuff has to be assambled in order or else you won't be able to flash the bootloader and the 3d printable parts are all a bit crappy and hard to fit together properly. 
-
-Or maybe you want to DIY your own controllers? check out the [Controllers docs](docs/DocsIndex.md#controllers) for building the controllers with regular Arduino boards!
-
-
 # Patreon
 If you'd like to support me, consider subscribing to my [Patreon](https://www.patreon.com/Manollo)
