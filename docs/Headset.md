@@ -59,6 +59,8 @@ Board works with MPU6500 but it's generally better to get a better one like MPU9
 
 You don't need to use the 5V pins. Board is powered by Pro Micro which connects with your PC with USB cable.
 
+If you don't want to use this board with display, you can grab the case [Here](https://github.com/ManoloMancelli/HadesVR_Remix/tree/main/Hardware/HMD%20PCB/3D%20Print/HMD%20PCB%20Case%20-%20Without%20Display)
+
 
 ## ⚠️ IMPORTANT: YOU NEED A 5V TO 3.3V REGULATOR TO POWER THE NRF24 MODULE, ***THE PRO MICRO DOES NOT SUPPLY 3.3V ON ANY OF ITS PINS*** 
 # Uploading the firmware
