@@ -27,9 +27,9 @@ The driver configuration is divided into a couple sections for tidyness, these a
 | ------  | ------ |------     |
 | TransportMode | string | Don't need to touch this - Either HID or UART depending on how HMD is connected, see below. |
 | PSMSTrackerFrequency | int | The maximum update rate you have set on your psmoveservice trackers.|
-| EnableDirectMode | bool | Enable direct mode? (Experimental, sort of broken. default value is 'false'.|
-| EDID_VID | int | EDID VID for direct mode.|
-| EDID_PID | int | EDID PID for direct mode.|
+| EnableDirectMode | bool | Don't need to touch this - Enable direct mode? (Experimental, sort of broken. default value is 'false'.|
+| EDID_VID | int | Don't need to touch this - EDID VID for direct mode.|
+| EDID_PID | int | Don't need to touch this - EDID PID for direct mode.|
 
 If `TransportMode` is set to `HID` (or left unset):
 
