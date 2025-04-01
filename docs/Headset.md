@@ -16,14 +16,9 @@ For the shell you can use any "Phone VR" enclosure, they come in very different 
 
 ## Electronics
 
-For the main microcontroller you absolutely need to use board that uses [Arduino HID library](https://www.arduino.cc/en/Reference/HID). That means:
-
-* Arduino Leonardo
 * Arduino Pro micro
 
 ⚠️ Other boards like Arduino MEGA won't work!
-
-Ideal board is the Arduino Pro Micro - it's based on the Atmega32u4 and it's super small
 
 * Gyroscope - MPU9250 is the best one but you can use cheaper ones at your own risk.
 
