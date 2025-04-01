@@ -14,8 +14,6 @@ If you don't plan on making a 6dof headset (a 3dof headset for Sim racing, etc),
 
 Driver configuration is pretty self explanatory, the driver configuration file is stored in hadesvr\resources\settings\default.vrsettings.
 
-(In the Steam folders)
-
 To change the settings just open the file with the text editor of your liking.
 
 If you're planning to use different drivers at the same time (HadesVR controllers with TOVR HMD for example), you'll also need to enable the `activateMultipleDrivers` setting in the Steam\config\steamvr.vrsettings file. 
