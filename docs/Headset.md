@@ -39,7 +39,6 @@ There's a couple different versions of these blue driver boards, the most common
 
 ![8](img/Headset/8.png)
 
-Some screen options are:
 
 ### LS055R1SX04 with Green board
 With this option you'll have to purchase the [display](https://www.aliexpress.com/item/4000999801804.html) and [board](https://www.aliexpress.com/item/1005002330323719.html) separately. Make sure you choose the right display to go with the right board (LS055R1SX04 lcd won't work with LS055R1SX03 board) and make sure the display has a backlight before purchasing since these are usually used for resin 3d printers.
