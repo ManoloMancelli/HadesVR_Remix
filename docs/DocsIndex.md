@@ -13,6 +13,18 @@ These docs are still work in progress
 - [Uploading the firmware and calibrating the magnetometer](Headset.md#uploading-the-firmware-and-calibrating-the-magnetometer)
 - [Getting HID values](Headset.md#getting-hid-values)
 
+## [Sideloader](Sideloader.md)
+
+- [Hardware needed](Headset.md#hardware-needed)
+    - [Shell](Headset.md#shell)
+    - [Electronics](Headset.md#electronics)
+    - [Display(s)](Headset.md#displays)
+- [Circuit schematic](Headset.md#circuit-schematic)
+- [Uploading the firmware and calibrating the magnetometer](Headset.md#uploading-the-firmware-and-calibrating-the-magnetometer)
+- [Getting HID values](Headset.md#getting-hid-values)
+
+
+
 ## [RF Receiver](RFReceiver.md)
 
 - [Hardware needed](RFReceiver.md#hardware-needed)
