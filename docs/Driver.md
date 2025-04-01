@@ -48,7 +48,7 @@ If `TransportMode` is set to `UART`:
 ### "Display" section where you'll find:
 |Parameter|Type    |Description|
 | ------  | ------ |------     |
-| Stereo  | bool | Enables or disables Stereo display mode, keep enabled unless you're a cyclops.     |
+| Stereo  | bool | Enables or disables Stereo display mode, keep enabled unless you are using Sideloader.     |
 | IsDisplayOnDesktop  | bool | This makes it so a warning telling you your display isn't in fullscreen mode pops up when your window focus isn't on the VR viewport.     |
 | IsDisplayReal  | bool | ------     |
 | IsSinglePanel  | bool | Set to true if using a single panel display.     |
