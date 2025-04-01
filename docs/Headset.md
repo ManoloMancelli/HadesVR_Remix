@@ -23,19 +23,19 @@ For the main microcontroller you absolutely need to use board that uses [Arduino
 
 ⚠️ Other boards like Arduino MEGA won't work!
 
-An ideal candidate is the Arduino Pro Micro since it's based on the Atmega32u4 which is the microcontroller used on the Arduino Leonardo and it's fairly small.
+Ideal board is the Arduino Pro Micro - it's based on the Atmega32u4 and it's super small
 
 Also needed are:
-* An MPU9250 to gather rotation data (though you could use any IMU that's fast enough and can output rotation data to quaternions if you modify the code a bit to allow for that).
+* Gyroscope - MPU9250 is the best one but you can use cheaper ones at your own risk.
 
-* An NRF24L01 to receive the controller data from both controllers*
+* NRF24L01 - Wireless receiver for the Controllers communication
 
-* A 5v to 3.3v voltage regulator to power the NRF24 module*
+* 5v to 3.3v voltage regulator to power the NRF24 module
 
-* A High brightness LED that's a different colour from the ones used on the controllers (I suggest green) and a resistor for that LED for blob tracking (also needed is a white ping pong ball to put the LED into)**
+* Super bright RGB LED
 
-    *: Only needed if you're also building the controllers.
-    **: Only needed for 6dof tracking.
+* White PingPong ball (Vase-mode 3D printed works but it's fragile)
+
 
 ## Display(s)
 
