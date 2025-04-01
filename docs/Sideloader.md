@@ -1,4 +1,6 @@
 # Sideloader V
+![1](docs/img/sideloader_v.png)
+
 Sideloader V is a total conversion of the Vufine wearable display.
 
 It uses all of the electronics which you get when buying the device.
