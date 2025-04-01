@@ -62,7 +62,7 @@ You can find these boards by searching with the terms "5.5 LCD MIPI"
 
 # Circuit schematic
 
-[placeholder]
+![10](img/hmd_pcb.png)
 
 ## ⚠️ IMPORTANT: YOU NEED A 5V TO 3.3V REGULATOR TO POWER THE NRF24 MODULE, ***THE PRO MICRO DOES NOT SUPPLY 3.3V ON ANY OF ITS PINS*** 
 # Uploading the firmware
