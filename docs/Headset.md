@@ -60,7 +60,7 @@ You can find these boards by searching with the terms "5.5 LCD MIPI"
 
 ![7](img/Headset/7.png)
 
-# Circuit schematic
+# HMD Circuit schematic
 
 ![10](img/hmd_pcb.png)
 
