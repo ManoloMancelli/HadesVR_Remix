@@ -44,7 +44,6 @@ The board is meant to run the display at 60hz but it can easily do 72hz if you c
 
 ![10](img/Headset/10.png)
 
-![7](img/Headset/7.png)
 
 # HMD Circuit schematic
 
