@@ -57,6 +57,8 @@ You can use only one NRF24L01 module but it's best to use two of them.
 
 Board works with MPU6500 but it's generally better to get a better one like MPU9250.
 
+You don't need to use the 5V pins. Board is powered by Pro Micro which connects with your PC with USB cable
+
 
 ## ⚠️ IMPORTANT: YOU NEED A 5V TO 3.3V REGULATOR TO POWER THE NRF24 MODULE, ***THE PRO MICRO DOES NOT SUPPLY 3.3V ON ANY OF ITS PINS*** 
 # Uploading the firmware
