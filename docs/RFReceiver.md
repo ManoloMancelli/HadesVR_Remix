@@ -5,9 +5,8 @@ This is only needed if you already have an HMD and want to build only the contro
 This RF receiver is in charge of receiving rotation and button data from the controllers, replacing the need for the HadesVR headset.
 
 # Hardware Needed
-I suggest sticking to stuff that supports the [Arduino HID library](https://www.arduino.cc/en/Reference/HID). An ideal candidate is the Arduino Pro Micro since it's based on the Atmega32u4 and it's fairly small.
 
-Also needed are:
+* Arduino Pro Micro
 * An NRF24L01 to receive the controller data from both controllers
 * A 5v to 3.3v voltage regulator to power the NRF24 module
 
