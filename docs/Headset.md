@@ -89,9 +89,8 @@ You can find these boards by searching with the terms "120Hz VR LCD"
 ![6](img/Headset/6.png)
 
 # Circuit schematic
-Circuit pins for the Arduino pro micro are as follows:
 
-
+[placeholder]
 
 ## ⚠️ IMPORTANT: YOU NEED A 5V TO 3.3V REGULATOR TO POWER THE NRF24 MODULE, ***THE PRO MICRO DOES NOT SUPPLY 3.3V ON ANY OF ITS PINS*** 
 # Uploading the firmware
