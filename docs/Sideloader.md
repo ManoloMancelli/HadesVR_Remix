@@ -26,6 +26,6 @@ It uses HadesVR SteamVR driver to mirror-flip the video feed so that it can be v
 
 It's also fitted with my custom SteamVR core board which has built-in gyroscope. This let's you move your head around in virtual environment and see the movements in the physical space.
 
-CAD files are available on my [Patreon](https://www.patreon.com/posts/112948519/)
-
 You can check out the video [here](https://youtu.be/N-iY-ic1KNk)
+
+CAD files are available on my [Patreon](https://www.patreon.com/posts/112948519/)
