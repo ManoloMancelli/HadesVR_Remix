@@ -4,6 +4,8 @@ Official HadesVR Discord [feel free to join.](https://discord.gg/h2SFGEbuRH)
 # HadesVR Remix
 HadesVR Remix is a SteamVR compatible VR setup based on original HadesVR. 
 
+My Remixed version aims for more "streamlined" HadesVR experience.
+
 The setup includes DIY controllers that are capable of emulating HTC vive wands or most aspects of the Valve Index Knuckles controllers (including finger tracking!). It also includes tracking electronics for a Headset, including an integrated wireless receiver to receive the controllers' data.
 
 There's also custom controller hardware like 3d printable shells (still a bit of a WIP) with their respective custom PCBs to build your own Knuckles controllers.
