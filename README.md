@@ -12,7 +12,7 @@ HadesVR driver also uses [PSMoveServiceEX](https://github.com/Timocop/PSMoveServ
 
 For more information on *everything*, check out the [docs](docs/DocsIndex.md)!
 
-![1](docs/img/headest_no_display.jpg)
+![1](docs/img/headest_no_display.png)
 
 # How does it work and what can it do?
 
