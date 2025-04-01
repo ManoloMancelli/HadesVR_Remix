@@ -33,8 +33,6 @@ For the shell you can use any "Phone VR" enclosure, they come in very different 
 
 You can find these screens on Aliexpress, but make sure you are buying the whole kit, display + driver board.
 
-![8](img/Headset/8.png)
-
 
 ### LS055R1SX04 with Green board
 With this option you'll have to purchase the [display](https://www.aliexpress.com/item/4000999801804.html) and [board](https://www.aliexpress.com/item/1005002330323719.html) separately. Make sure you choose the right display to go with the right board (LS055R1SX04 lcd won't work with LS055R1SX03 board) and make sure the display has a backlight before purchasing since these are usually used for resin 3d printers.
