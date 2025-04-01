@@ -33,10 +33,6 @@ For the shell you can use any "Phone VR" enclosure, they come in very different 
 
 You can find these screens on Aliexpress, but make sure you are buying the whole kit, display + driver board.
 
-Most of these screens come with a Blue driver board based around the [Toshiba TC358870XBG](https://toshiba.semicon-storage.com/ap-en/semiconductor/product/interface-bridge-ics-for-mobile-peripheral-devices/hdmir-interface-bridge-ics/detail.TC358870XBG.html), be skeptical of these boards since they support a huge multitude of displays at different refresh rates and resolutions, some sellers even claim they can drive two displays at 90hz.
-
-There's a couple different versions of these blue driver boards, the most common one based around the TOSHIBA chip, the other one based on a clone of said chip.
-
 ![8](img/Headset/8.png)
 
 
