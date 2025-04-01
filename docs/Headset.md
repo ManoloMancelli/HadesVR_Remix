@@ -51,7 +51,7 @@ The board is meant to run the display at 60hz but it can easily do 72hz if you c
 
 Get the gerber files [Here]()
 
-
+You can use only one NRF24L01 module but it's best to use two of them.
 
 
 ## ⚠️ IMPORTANT: YOU NEED A 5V TO 3.3V REGULATOR TO POWER THE NRF24 MODULE, ***THE PRO MICRO DOES NOT SUPPLY 3.3V ON ANY OF ITS PINS*** 
