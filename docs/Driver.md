@@ -73,9 +73,9 @@ If `TransportMode` is set to `UART`:
 ### "Distortion" section where you'll find:
 |Parameter|Type    |Description|
 | ------  | ------ |------     |
-| Red_K1,K2,K3  | float | Red distortion coefficients     |
-| Green_K1,K2,K3  | float | Green distortion coefficients|
-| Blue_K1,K2,K3 |float| Blue distortion coefficients |
+| Red_K1,K2,K3  | float | Don't need to touch this - Red distortion coefficients     |
+| Green_K1,K2,K3  | float | Don't need to touch this - Green distortion coefficients|
+| Blue_K1,K2,K3 |float| Don't need to touch this - Blue distortion coefficients |
 
 ### "HMD" section where you'll find:
 |Parameter|Type    |Description|
