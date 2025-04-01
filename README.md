@@ -22,7 +22,8 @@ You can use the setup in:
 * Headset and controllers mode - Headset + Controllers + PSMoveServiceEX Tracking - 6DoF
 * Headset only mode - Headset + PSMoveServiceEX - 6DoF
 * Headset only mode - Headset - 3DoF
-* Controller only mode: where if you already have a headset, you can use only the controllers part of the setup (you'll need to build an [RF receiver](docs/RFReceiver.md) to replace the HadesVR headset's built in one).
+* Controller only mode - Controllers + Receiver - 6DoF
+[Receiver](docs/RFReceiver.md)
 
 ## What it can and cannot do:
 * This driver can emulate Wand and Index controllers.
