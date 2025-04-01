@@ -1,7 +1,8 @@
 # Headset
-The headset will not only be in charge of showing you the image and relaying back rotation data from it's internal IMU, but it will also be in charge of receiving the RF Controller data and sending it back to the computer. Another thing that can be integrated into the headset is an USB Sound Card, that way it'll also have an integrated Microphone and a headphone jack for you to plug your headphones in. Though it's not mandatory.
 
-I plan on eventually making a custom pcb for the headset that includes a 2 port USB hub, an audio interface for headphones and microphone integration, and maybe a couple other goodies like an attempt at backlight strobing to reduce screen blur.
+The headset connects directly to your PC using the USB cable.
+Built-in HadesVR PCB provides rotation data from gyroscope and also receives the controller data wirelessly.
+
 
 # Hardware Needed
 
