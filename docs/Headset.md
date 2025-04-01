@@ -11,9 +11,8 @@ For the shell you can use any "Phone VR" enclosure, they come in very different 
 
 ![1](img/Headset/1.png)
 
-You could also 3d print the shell, like the guys over at [Relativty](https://github.com/relativty/Relativty#building-the-mechanical-parts) did. Keep in mind you'll also need to source your own lenses with the correct focal length and head strap.
 
-⚠️ The screen mount depends on what screen you use and you'll have to design your own sice not all mounts fit all headsets/screen combinations.
+⚠️ The screen mount depends on what screen and case you use.
 
 ## Electronics
 
