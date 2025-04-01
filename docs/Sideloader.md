@@ -18,6 +18,8 @@ You can check out the video [here](https://youtu.be/I-BfNhqAvuw)
 CAD files are available on my [Patreon](https://www.patreon.com/posts/125355897/)
 
 # Sideloader ECX
+![1](docs/img/sideloader_ecx.png)
+
 Sideloader ECX is a DiY wearable device, which acts as a super simple Augmented Reality display.
 
 It uses the ECX333 / ECX331 display which comes either with micro HDMI or composite video input.
