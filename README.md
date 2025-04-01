@@ -6,12 +6,9 @@ HadesVR Remix is a SteamVR compatible VR setup based on original HadesVR.
 
 My Remixed version aims for more "streamlined" HadesVR experience.
 
-The setup includes DIY controllers that are capable of emulating HTC vive wands or most aspects of the Valve Index Knuckles controllers (including finger tracking!). It also includes tracking electronics for a Headset, including an integrated wireless receiver to receive the controllers' data.
+The setup includes DIY Headset and Controllers that emulate HTC vive wands. You can also build the receiver only if you wish to use HadesVR controllers with your pre-existing headset.
 
-There's also custom controller hardware like 3d printable shells (still a bit of a WIP) with their respective custom PCBs to build your own Knuckles controllers.
-
-The SteamVR driver used to be based off of [TrueOpenVR](https://github.com/TrueOpenVR) but it's modified so heavily I'm making it it's own thing.
-This driver also uses [PSMoveServiceEX](https://github.com/Timocop/PSMoveServiceEx) (for now at least) for the positional tracking of HMD and controllers, using ping pong balls and different colours of LED's.
+HadesVR driver also uses [PSMoveServiceEX](https://github.com/Timocop/PSMoveServiceEx) for the positional tracking of Headset and Controllers, using ping pong balls and different colours of LEDs.
 
 For more information on *everything*, check out the [docs](docs/DocsIndex.md)!
 
