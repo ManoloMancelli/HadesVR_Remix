@@ -1,2 +1,2 @@
-# Sideloader-V
-# Sideloader-ECX
+# Sideloader V
+# Sideloader ECX
