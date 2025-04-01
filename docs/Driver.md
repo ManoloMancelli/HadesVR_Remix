@@ -181,14 +181,11 @@ you can also show the main vr output on your main screen for testing purposes by
 * Click on the Screen Viewport
 * Calibrate controllers and headset by pressing F8 on your keyboard or the respective binding for it. (more on calibration below)
 
-⚠️ if you just turned on your controllers/hmd it might drift for up to a minute, this is normal and you just need to keep it stil for a couple seconds until it settles.
+⚠️ if you just turned on your controllers/hmd it will be jittery for a moment, this is normal and you just need to keep it stil for a couple seconds until it settles.
 
-## Initial calibration:
-[TODO]
- 
 ## Bindings:
 ### HMD only bindings:
 Pressing F8 resets your yaw axis in case of IMU drift.
 
-### Knuckles and Wand controllers:
+### Wand controllers:
 Pressing Joystick click + trigger button on both controllers at the same time resets the yaw axis, make sure you're facing the correct way before doing so or else your controllers' axis will not match your headset axis.
