@@ -16,11 +16,12 @@ For the shell you can use any "Phone VR" enclosure, they come in very different 
 
 ## Electronics
 
-As the main microcontroller I suggest sticking to stuff that supports the [Arduino HID library](https://www.arduino.cc/en/Reference/HID). That means:
+For the main microcontroller you absolutely need to use board that uses [Arduino HID library](https://www.arduino.cc/en/Reference/HID). That means:
 
 * Arduino Leonardo
 * Arduino Pro micro
-* Arduino DUE (code might require some modification since it doesn't support EEPROM.)
+
+⚠️ Other boards like Arduino MEGA won't work!
 
 An ideal candidate is the Arduino Pro Micro since it's based on the Atmega32u4 which is the microcontroller used on the Arduino Leonardo and it's fairly small.
 
