@@ -29,7 +29,6 @@ You can use the setup in:
 
 As of right now the custom hardware available is:
 
-### ⚠️Both the Basic HMD and Wand Controllers are missing the 3d printable parts right now. 
 * [HadesVR Basic HMD PCB](https://github.com/HadesVR/Basic-HMD-PCB) 
 * [HadesVR Wand Controllers](https://github.com/HadesVR/Wand-Controller)
 
