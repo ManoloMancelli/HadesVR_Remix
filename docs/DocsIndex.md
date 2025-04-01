@@ -3,7 +3,7 @@ Welcome to the docs Index, here you'll (hopefully) find everything you need to k
 
 These docs are still work in progress
 
-## [Headset](Headset.md)
+## [HadesVR Headset](Headset.md)
 
 - [Hardware needed](Headset.md#hardware-needed)
     - [Shell](Headset.md#shell)
