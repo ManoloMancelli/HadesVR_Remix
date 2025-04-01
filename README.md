@@ -42,9 +42,6 @@ As of right now the custom hardware available is:
 
 Or maybe you want to DIY your own controllers? check out the [Controllers docs](docs/DocsIndex.md#controllers) for building the controllers with regular Arduino boards!
 
-# Demos
 
-I've recorded a few demos of my HadesVR setup working in different games, these are all available in this [Youtube Playlist](https://www.youtube.com/playlist?list=PLPNX9YMrhQR2g2nwp1AN23K4V-8d-4bBV)
-
-# Trello
-I used to have a crappy little TODO list here but I'm gonna try to use [trello for HadesVR work](https://trello.com/b/4Ogw6SMk/hadesvr-stuff)
+# Patreon
+If you'd like to support me, consider subscribing to my [Patreon](https://www.patreon.com/Manollo)
