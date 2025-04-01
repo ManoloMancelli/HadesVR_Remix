@@ -49,7 +49,7 @@ The board is meant to run the display at 60hz but it can easily do 72hz if you c
 
 ![10](img/hmd_pcb.png)
 
-Get the gerber files [Here]()
+Get the gerber files [Here](hardware/hmd pcb/gerber files)
 
 HMD PCB works only with Arduino Pro Micro. Any other board is not supported.
 
@@ -57,7 +57,7 @@ You can use only one NRF24L01 module but it's best to use two of them.
 
 Board works with MPU6500 but it's generally better to get a better one like MPU9250.
 
-You don't need to use the 5V pins. Board is powered by Pro Micro which connects with your PC with USB cable
+You don't need to use the 5V pins. Board is powered by Pro Micro which connects with your PC with USB cable.
 
 
 ## ⚠️ IMPORTANT: YOU NEED A 5V TO 3.3V REGULATOR TO POWER THE NRF24 MODULE, ***THE PRO MICRO DOES NOT SUPPLY 3.3V ON ANY OF ITS PINS*** 
