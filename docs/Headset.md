@@ -63,18 +63,6 @@ You can find these boards by searching with the terms "5.5 LCD MIPI"
 
 ![7](img/Headset/7.png)
 
-### Dual LS029B3SX02
-These screens are 1440x1440 per eye (2880x1440) and run at 120hz.
-The use a different driver board that uses DisplayPort as a video input and the displays are 2.9 inch IPS LCD.
-
-⚠️ Make sure you're getting the correct refresh rate before buying
-
-These go for around 180USD for the pair of screens and driver board, making them a better purchase than the dual AMOLED if you're looking for high refresh rate.
-
-You can find these boards by searching with the terms "120Hz VR LCD"
-
-![6](img/Headset/6.png)
-
 # Circuit schematic
 
 [placeholder]
