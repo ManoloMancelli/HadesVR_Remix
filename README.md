@@ -36,10 +36,6 @@ As of right now the custom hardware available is:
 
 ### ⚠️Important disclaimer: I **very** very heavily discourage against building the knuckles controller, it's got a whole lot of problems right now that I haven't gotten around to fixing yet, there's problems with the boards and there's problems with the 3d printer models, and there's problems with the reliability of the capacitive sensors of each finger. The index controller is not an easy build: it relies on a lot of SMD components, stuff has to be assambled in order or else you won't be able to flash the bootloader and the 3d printable parts are all a bit crappy and hard to fit together properly. 
 
-### Also there is a bit of an issue with the boards right now which makes it hard to flash the bootloader since AVR's require a crystal to do that for some dumb reason, so I heavily recommend against making the custom Index controllers for now.
-
-#### I'm also working on an easier to build type of controllers that emulate the vive wands, made only out of through hole components though it's not ready yet (mainly missing the 3d printable shell at the moment). With that being said:
-
 Or maybe you want to DIY your own controllers? check out the [Controllers docs](docs/DocsIndex.md#controllers) for building the controllers with regular Arduino boards!
 
 
