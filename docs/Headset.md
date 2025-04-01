@@ -101,10 +101,10 @@ You can download the required library using the Libraries manager from within th
 
 The steps to upload the firmware are as follows:
 
-* Open Headset.ino inside the Software/Firmware/Headset folder
-* Select "Arduino Leonardo" as the board if you're using an Arduino Pro Micro
+* Open Firmware.ino inside the Software/Firmware/Headset folder
+* Select "Arduino Leonardo" as the board
 * Select the correct COM port for the board
-* Press the Upload button, if all goes well, you can move to setting the correct COMPort.
+* Press the Upload button
 
 # Getting HID values
 
