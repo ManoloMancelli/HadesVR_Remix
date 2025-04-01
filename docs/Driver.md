@@ -16,7 +16,9 @@ Driver configuration is pretty self explanatory, the driver configuration file i
 
 To change the settings just open the file with the text editor of your liking.
 
-If you're planning to use different drivers at the same time (HadesVR controllers with Oculus Rift for example), you'll also need to enable the `activateMultipleDrivers` setting in the Steam\config\steamvr.vrsettings file. 
+If you're planning to use different drivers at the same time (HadesVR controllers with Oculus Rift for example),
+
+ you'll also need to enable the `activateMultipleDrivers` setting in the Steam\config\steamvr.vrsettings file. 
 
 The driver configuration is divided into a couple sections for tidyness, these are the following:
 
