@@ -2,7 +2,7 @@
 
 # Driver Installation
 Driver installation is quite simple, the steps are as follows:
-* Download the latest release of the driver from the [Releases Page](https://github.com/HadesVR/HadesVR/releases)
+* Download the latest release of the driver from [Here](https://github.com/ManoloMancelli/HadesVR_Remix/tree/main/Software/Driver%20-%20For%20your%20PC)
 * Unzip the driver into your Steam\steamapps\common\SteamVR\drivers folder.
 * Configure the driver
 
