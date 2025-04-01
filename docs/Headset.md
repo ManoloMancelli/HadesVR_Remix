@@ -16,9 +16,7 @@ For the shell you can use any "Phone VR" enclosure, they come in very different 
 
 ## Electronics
 
-* Arduino Pro micro
-
-⚠️ Other boards like Arduino MEGA won't work!
+* Arduino Pro micro - Best one. Different ones won't work.
 
 * Gyroscope - MPU9250 is the best one but you can use cheaper ones at your own risk.
 
