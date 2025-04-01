@@ -1,6 +1,3 @@
-[![EN](docs/img/ukflag.png)](README.md)
-
-
 [![Discord](docs/img/Discord.png)](https://discord.gg/h2SFGEbuRH)
 Official HadesVR Discord [feel free to join.](https://discord.gg/h2SFGEbuRH)
 
