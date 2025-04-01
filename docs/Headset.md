@@ -29,12 +29,11 @@ For the shell you can use any "Phone VR" enclosure, they come in very different 
 * White PingPong ball (Vase-mode 3D printed works but it's fragile)
 
 
-## Display(s)
+## Display
 
-There's a couple different displays you can use for this headset, anything from 4.5 to 6 inches should work just fine.
-*As of right now*, using a phone with ALVR or RiftCat or whatever isn't supported though.
+There's a couple different displays you can use for this headset, anything from 5.5 to 6 inches should work just fine.
 
-You can find these screens on Aliexpress, but make sure what you're getting is what you think you're getting. Ask the seller if the screen **AND** the driver board support the resolution and refresh rate they advertise.
+You can find these screens on Aliexpress, but make sure you are buying the whole kit, display + driver board.
 
 Most of these screens come with a Blue driver board based around the [Toshiba TC358870XBG](https://toshiba.semicon-storage.com/ap-en/semiconductor/product/interface-bridge-ics-for-mobile-peripheral-devices/hdmir-interface-bridge-ics/detail.TC358870XBG.html), be skeptical of these boards since they support a huge multitude of displays at different refresh rates and resolutions, some sellers even claim they can drive two displays at 90hz.
 
@@ -92,7 +91,6 @@ You can find these boards by searching with the terms "120Hz VR LCD"
 # Circuit schematic
 Circuit pins for the Arduino pro micro are as follows:
 
-![2](img/Headset/2.png)
 
 
 ## ⚠️ IMPORTANT: YOU NEED A 5V TO 3.3V REGULATOR TO POWER THE NRF24 MODULE, ***THE PRO MICRO DOES NOT SUPPLY 3.3V ON ANY OF ITS PINS*** 
