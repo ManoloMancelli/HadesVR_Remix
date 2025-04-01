@@ -49,7 +49,7 @@ The board is meant to run the display at 60hz but it can easily do 72hz if you c
 
 ![10](img/hmd_pcb.png)
 
-Get the gerber files [Here](hardware/hmd pcb/gerber files)
+Get the gerber files [Here](hardware/hmd pcb/gerber-files)
 
 HMD PCB works only with Arduino Pro Micro. Any other board is not supported.
 
