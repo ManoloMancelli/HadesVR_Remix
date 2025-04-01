@@ -29,7 +29,7 @@ You can use the setup in:
 
 As of right now the custom hardware available is:
 
-* [HadesVR Basic HMD PCB](https://github.com/HadesVR/Basic-HMD-PCB) 
+* [HadesVR Basic HMD PCB](https://github.com/ManoloMancelli/HadesVR_Remix/tree/main/Hardware/HMD%20PCB) 
 * [HadesVR Wand Controllers](https://github.com/HadesVR/Wand-Controller)
 
 # Patreon
