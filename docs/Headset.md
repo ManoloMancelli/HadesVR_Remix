@@ -51,6 +51,8 @@ The board is meant to run the display at 60hz but it can easily do 72hz if you c
 
 Get the gerber files [Here]()
 
+HMD PCB works only with Arduino Pro Micro. Any other board is not supported.
+
 You can use only one NRF24L01 module but it's best to use two of them.
 
 Board works with MPU6500 but it's generally better to get a better one like MPU9250.
