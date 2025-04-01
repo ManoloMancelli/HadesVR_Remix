@@ -41,17 +41,6 @@ These screens are 1440x2560(vertical), they officially support up to 60Hz but wi
 
 The board is meant to run the display at 60hz but it can easily do 72hz if you create a custom resolution in nvidia control panel or amd's driver settings thing.
 
-![10](img/Headset/10.png)
-
-### LS055R1SX04 or LS055R1SX03 Blue board
-These screens are 1440x2560(vertical), they officially support up to 60Hz but depending on the driver board they can be pushed to around 65hz without artifacts (this depends on the driver board).
-
-⚠️ Make sure you're getting the correct refresh rate since a lot of sellers sell these boards with a driver board that's programmed to run at only 50hz
-
-These are reasonably cheap since they're commonly used in resin 3d printers and can be found for around 50USD.
-
-You can find these boards by searching with the terms "5.5 LCD MIPI"
-
 ![7](img/Headset/7.png)
 
 # HMD Circuit schematic
