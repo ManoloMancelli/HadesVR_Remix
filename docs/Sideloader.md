@@ -10,3 +10,4 @@ Sideloader ECX is a DiY wearable device, which acts as a super simple Augmented 
 
 It uses the ECX333 / ECX331 display which comes either with micro HDMI or composite video input.
 
+It uses HadesVR SteamVR driver to mirror-flip the video feed so that it can be viewed properly on the semi-transparent combiner in front of your eye.
