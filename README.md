@@ -20,7 +20,8 @@ The headset connects to the PC via USB and receives rotation and button data fro
 
 You can use the setup in: 
 * Headset and controllers mode - Headset + Controllers + PSMoveServiceEX Tracking - 6DoF
-* Headset only mode: where you only have your HadesVR headset and the 6dof tracking (or 3dof if you don't use PSMoveService)
+* Headset only mode - Headset + PSMoveServiceEX - 6DoF
+* Headset only mode - Headset - 3DoF
 * Controller only mode: where if you already have a headset, you can use only the controllers part of the setup (you'll need to build an [RF receiver](docs/RFReceiver.md) to replace the HadesVR headset's built in one).
 
 ## What it can and cannot do:
