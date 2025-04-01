@@ -24,11 +24,6 @@ You can use the setup in:
 * Headset only mode - Headset - 3DoF
 * Controllers only mode - Controllers + [Receiver](docs/RFReceiver.md) - 6DoF
 
-## What it can and cannot do:
-* This driver can emulate Wand and Index controllers.
-* This setup cannot do Inside out tracking.
-* This driver cannot do Full body tracking ~~**yet**~~.
-* Yes this thing plays beatsaber though I'm not sure how viable it is for expert+ diff since I suck at it.
 
 # Custom hardware
 
