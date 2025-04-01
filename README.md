@@ -5,7 +5,7 @@
 [![Discord](docs/img/Discord.png)](https://discord.gg/h2SFGEbuRH)
 Official HadesVR Discord [feel free to join.](https://discord.gg/h2SFGEbuRH)
 
-# HadesVR     (https://img.shields.io/github/v/release/HadesVR/HadesVR.svg)](../../releases/latest)
+# HadesVR
 HadesVR is a SteamVR compatible VR setup made for tinkerers. 
 
 The setup includes DIY controllers that are capable of emulating HTC vive wands or most aspects of the Valve Index Knuckles controllers (including finger tracking!). It also includes tracking electronics for a Headset, including an integrated wireless receiver to receive the controllers' data.
