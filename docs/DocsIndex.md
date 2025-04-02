@@ -14,7 +14,6 @@ These docs are still work in progress
 - [Getting HID values](Headset.md#getting-hid-values)
 
 ## [Sideloader](Sideloader.md)
-Work in progress
 - [Sideloader V](Sideloader.md#Sideloader-V)
 - [Sideloader ECX](Sideloader.md#Sideloader-ECX)
 
