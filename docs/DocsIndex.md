@@ -38,10 +38,6 @@ Work in progress
 - [Calibration](Controllers.md#calibration)
 
 
-## Trackers
-- Hardware needed
-- Circuit schematic
-
 ## [Tracking](Tracking.md)
 
 - [What you'll need](Tracking.md#what-youll-need)
@@ -58,9 +54,3 @@ Work in progress
 - [Display Configuration](Driver.md#Display-configuration)
 - [Usage and controller bindings](Driver.md#Usage-and-controller-bindings)
 
-## Troubleshooting
-
-Driver troubleshooting:
-- Error 422
-- Red viewport
-- Headset not connected
