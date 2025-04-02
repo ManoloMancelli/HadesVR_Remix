@@ -16,18 +16,3 @@ Current version is 1.2.1
 You can check out the video [here](https://youtu.be/I-BfNhqAvuw)
 
 CAD files are available on my [Patreon](https://www.patreon.com/posts/125355897/)
-
-# Sideloader ECX
-![1](docs/img/sideloader_ecx.png)
-
-Sideloader ECX is a DiY wearable device, which acts as a super simple Augmented Reality display.
-
-It uses the ECX333 / ECX331 display which comes either with micro HDMI or composite video input.
-
-It uses HadesVR SteamVR driver to mirror-flip the video feed so that it can be viewed properly on the semi-transparent combiner in front of your eye.
-
-It's also fitted with my custom SteamVR core board which has built-in gyroscope. This let's you move your head around in virtual environment and see the movements in the physical space.
-
-You can check out the video [here](https://youtu.be/N-iY-ic1KNk)
-
-CAD files are available on my [Patreon](https://www.patreon.com/posts/112948519/)
