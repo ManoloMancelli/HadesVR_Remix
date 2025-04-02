@@ -1,18 +1,4 @@
 # Custom Base Stations
 ![1](docs/img/base_board.png)
 
-Sideloader V is a total conversion of the Vufine wearable display.
-
-It uses all of the electronics which you get when buying the device.
-
-It also features the semi-transparent combiner which lets you see the reflected image layed over the physical environment.
-
-It uses HadesVR SteamVR driver to mirror-flip the video feed so that it can be viewed properly on the semi-transparent combiner in front of your eye.
-
-It's also fitted with my custom SteamVR core board which has built-in gyroscope. This let's you move your head around in virtual environment and see the movements in the physical space.
-
-Current version is 1.2.1
-
-You can check out the video [here](https://youtu.be/I-BfNhqAvuw)
-
-CAD files are available on my [Patreon](https://www.patreon.com/posts/125355897/)
+This is a purely cosmetic mod. No need to do this if you don't have the skills or don't like how it looks.
