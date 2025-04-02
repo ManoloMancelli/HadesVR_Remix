@@ -18,6 +18,8 @@ Work in progress
 - [Sideloader V](Sideloader.md#Sideloader-V)
 - [Sideloader ECX](Sideloader.md#Sideloader-ECX)
 
+## [Base Stations](base.md)
+
 ## [RF Receiver](RFReceiver.md)
 
 - [Hardware needed](RFReceiver.md#hardware-needed)
