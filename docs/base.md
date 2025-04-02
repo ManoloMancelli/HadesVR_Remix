@@ -1,5 +1,5 @@
 # Custom Base Stations
-![1](docs/img/sideloaderv.png)
+![1](docs/img/base_board.png)
 
 Sideloader V is a total conversion of the Vufine wearable display.
 
