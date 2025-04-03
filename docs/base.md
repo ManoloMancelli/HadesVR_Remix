@@ -15,7 +15,7 @@ Of course, work still in progress.
 - Tripod mount on the back
 - Tripod mount on the bottom
 
-# Software Installation
+# Driver Installation
 
 Download and install [Zadig](https://zadig.akeo.ie/), we'll be using Zadig to install our libusb camera drivers.
 
