@@ -17,3 +17,18 @@ Of course, work still in progress.
 
 # Software Installation
 
+Download and install [Zadig](https://zadig.akeo.ie/), we'll be using Zadig to install our libusb camera drivers.
+
+Plug in all your cameras and open up Device Manager, you'll probably see something similar to this:
+
+![1](img/Tracking/DrvInstall/1.png)
+
+To install the drivers open up Zadig, select one of the USB cameras, select libusb-win32 as your driver and click install driver.
+
+⚠️ You should only install the driver on the "Interface 0" cameras
+
+![2](img/Tracking/DrvInstall/2.png)
+
+Once it is done installing, select the next camera and repeat the process untill you've installed the drivers for all cameras. If you've done everything correctly, your device manager should look something like this:
+
+![3](img/Tracking/DrvInstall/3.png)
