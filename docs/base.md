@@ -32,3 +32,7 @@ To install the drivers open up Zadig, select one of the USB cameras, select libu
 Once it is done installing, select the next camera and repeat the process untill you've installed the drivers for all cameras. If you've done everything correctly, your device manager should look something like this:
 
 ![3](img/Tracking/DrvInstall/3.png)
+
+Base Station should be now ready to use with PSMoveServiceEX
+
+Those steps might be necessary to repeat for each Base Station.
