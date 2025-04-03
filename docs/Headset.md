@@ -7,7 +7,7 @@ Built-in HadesVR PCB provides rotation data from gyroscope and also receives the
 # Hardware Needed
 
 ## Shell
-For the shell you can use any "Phone VR" enclosure, they come in very different qualities but all of them should do the trick (even the carboard ones). Keep in mind the enclosure will dictate your max fov and that you can always modify the shell to allow for a wider fov.
+HadesVR Remix uses fully 3D printed shell for the headset.
 
 ![1](img/Headset/1.png)
 
