@@ -9,6 +9,10 @@ Built-in HadesVR PCB provides rotation data from gyroscope and also receives the
 ## Shell
 HadesVR Remix uses fully 3D printed shell for the headset.
 
+Dimensions are perfectly calibrated for the LS055R1SX04 display.
+
+I print all of the parts on BambuLab P1S. Other printers like Ender 3 will of course work but keep in mind that other brands use different material tolerances / stepper motor configurations, which may result in parts being too loose or even worse, too tight which may damage your electronics.
+
 ![1](img/Headset/1.png)
 
 
