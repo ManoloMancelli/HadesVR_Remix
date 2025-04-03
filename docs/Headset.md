@@ -16,8 +16,6 @@ I print all of the parts on BambuLab P1S. Other printers like Ender 3 will of co
 ![1](img/Headset/1.png)
 
 
-⚠️ The screen mount depends on what screen and case you use.
-
 ## Electronics
 
 * Arduino Pro micro - Best one. Different ones won't work.
