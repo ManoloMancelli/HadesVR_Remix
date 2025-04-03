@@ -6,3 +6,9 @@ This is a purely cosmetic mod. No need to do this if you don't have the skills o
 Of course, work still in progress.
 
 <img src="https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/docs/docs/img/basestation.png" width="600">
+
+# Features
+
+- Fully 3D printable housing
+- Removed microphone array
+- 
