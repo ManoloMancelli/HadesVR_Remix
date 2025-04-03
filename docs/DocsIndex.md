@@ -18,6 +18,9 @@ These docs are still work in progress
 - [Sideloader ECX](Sideloader.md#Sideloader-ECX)
 
 ## [Base Stations](base.md)
+- [Features](Sideloader.md#Sideloader-V)
+- [Software Installation](Sideloader.md#Sideloader-ECX)
+
 
 ## [RF Receiver](RFReceiver.md)
 
