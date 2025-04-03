@@ -9,6 +9,7 @@ Of course, work still in progress.
 
 # Features
 
+- Full PSMoveServiceEX support
 - Fully 3D printable housing
 - Removed microphone array
 - Tripod mount on the back
