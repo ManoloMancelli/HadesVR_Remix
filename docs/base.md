@@ -11,4 +11,5 @@ Of course, work still in progress.
 
 - Fully 3D printable housing
 - Removed microphone array
-- 
+- Tripod mount on the back
+- Tripod mount on the bottom
