@@ -14,6 +14,7 @@ Of course, work still in progress.
 - Removed microphone array
 - Tripod mount on the back
 - Tripod mount on the bottom
+- Tripod mount on the top
 
 # Driver Installation
 
