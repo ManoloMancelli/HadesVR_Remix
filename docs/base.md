@@ -6,6 +6,8 @@ This is a purely cosmetic mod. No need to do this if you don't have the skills o
 
 <img src="https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/docs/img/base_station.png" width="600">
 
+You can get the 3D files [here](https://github.com/ManoloMancelli/HadesVR_Remix/tree/main/Hardware/Base%20Stations)
+
 # Features
 
 - Full PSMoveServiceEX support
