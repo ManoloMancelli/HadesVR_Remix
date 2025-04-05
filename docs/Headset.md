@@ -13,7 +13,7 @@ Dimensions are perfectly calibrated for the LS055R1SX04 display.
 
 I print all of the parts on BambuLab P1S. Other printers like Ender 3 will of course work but keep in mind that other brands use different material tolerances / stepper motor configurations, which may result in parts being too loose or even worse, too tight which may damage your electronics.
 
-![1](img/Headset/1.png)
+![1](https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/docs/img/headset.png)
 
 
 ## Electronics
