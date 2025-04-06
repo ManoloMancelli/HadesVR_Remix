@@ -8,7 +8,7 @@ This is a purely cosmetic mod. No need to do this if you don't have the skills o
 
 You can get the 3D files [here](https://github.com/ManoloMancelli/HadesVR_Remix/tree/main/Hardware/Base%20Stations)
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/boW6VLNxAPs)
 
 # Features
 
