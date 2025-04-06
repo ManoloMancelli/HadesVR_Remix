@@ -13,6 +13,7 @@ HadesVR driver also uses [PSMoveServiceEX](https://github.com/Timocop/PSMoveServ
 For more information on *everything*, check out the [docs](docs/DocsIndex.md)!
 
 ![1](https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/docs/img/headset.png)
+![1](https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/docs/img/headset2.png)
 
 # How does it work and what can it do?
 
