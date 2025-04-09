@@ -12,7 +12,16 @@ HadesVR driver also uses [PSMoveServiceEX](https://github.com/Timocop/PSMoveServ
 
 For more information on *everything*, check out the [docs](docs/DocsIndex.md)!
 
-# My own VR headset - Persephone
+# Persephone Headset
+
+I've took a lot of inspiration from Sony's PlaystationVR while designing my own, DiY headset. 
+
+I've called it "Persephone". A cheeky link to the HadesVR project name.
+
+I'm still working on it but it's fully functional right now.
+
+I still have not managed to test the controllers however since I'm waiting for all of the custom PCBs and components to arrvie.
+
 
 ![1](https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/docs/img/headset.png)
 ![1](https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/docs/img/headset2.png)
