@@ -145,6 +145,10 @@ You can now proceed to the next steps
 
 5. Connect the Tact Switches to your Arduino Uno
 
+![1](img/uno_buttons_pinout.png)
+
+You should now have something like this
+
 ![1](img/uno_with_tact_switch.png)
 
 
