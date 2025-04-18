@@ -117,6 +117,14 @@ This means that now both NRF24 module and Gyroscope are working and you can cont
 
 ![1](img/blue_led.png)
 
+2. Solder the longer pin to the 5V pin of the Arduino Uno
+
+3. Solder the shorter pin to the GND pin of the Arduino Uno
+
+LED should now light up when you connect the Arduino to PC
+
+![1](img/arduino_with_led.png)
+
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
