@@ -17,6 +17,11 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/fastimu_lib.png)
 
+5. Install RF24 library inside Arduino.
+
+![1](img/rf24_lib.png)
+
+
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
 | --------- | ----------- | ----- | ------ |
