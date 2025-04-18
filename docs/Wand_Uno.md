@@ -165,6 +165,10 @@ You can now proceed with the next steps
 
 ![1](img/joystick.png)
 
+2. (Optional) remove goldpin connector
+
+![1](img/joystick_no_goldpin.png)
+
 # Gyroscope Calibration
 
 1. Connect your board to PC and open Serial Monitor again.
