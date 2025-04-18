@@ -29,6 +29,16 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 1. Open "Left_controller_Filter.ino" or "Right_controller_Filter.ino" - Depends on which one you downloaded.
 
+2. Connect your Arduino Uno to PC with USB cable. (I'm using Uno Mini which is the same as regular one)
+
+3. Install all of the Drivers that Arduino pops-up
+
+![1](img/uno_connect.png)
+
+4. Select correct board and COM port.
+
+![1](img/arduino_board_select.png)
+
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
