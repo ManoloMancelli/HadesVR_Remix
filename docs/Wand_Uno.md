@@ -159,6 +159,12 @@ You should now have something like this
 
 You can now proceed with the next steps
 
+# Soldering Joystick
+
+1. Prepare your joystick. Best to use this one
+
+![1](img/joystick.png)
+
 # Gyroscope Calibration
 
 1. Connect your board to PC and open Serial Monitor again.
