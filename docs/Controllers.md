@@ -8,4 +8,4 @@ Controllers connect through RF24, directly to the Headset or Receiver which then
 
 
 # [Wand Controllers](Wand.md)
-# Knuckle Controllers
+# [Knuckle Controllers](Knuckle.md)
