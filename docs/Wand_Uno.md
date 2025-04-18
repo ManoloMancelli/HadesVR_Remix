@@ -197,3 +197,5 @@ You can now proceed to next steps
 Board should now go into calibration
 
 ![1](img/calibration.png)
+
+## Gyroscope Calibration
