@@ -89,6 +89,12 @@ This means that the Gyroscope is working and you can proceed to the next steps.
 
 ![1](img/nrf_no_pins.png)
 
+2. Prepare 7 wires (I use Kynar)
+
+3. Solder the wires to your NRF24 board
+
+![1](img/nrf_pinout.png)
+
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
