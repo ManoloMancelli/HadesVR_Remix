@@ -1,5 +1,10 @@
 # Arduino Uno Wand Controllers
 
+# Environment Setup
+
+This guide assumes you have fresh Windows installation on your PC. Anything you have installed previously, might have an impact on this project. 
+
+
 These controllers aim to simulate the original Vive wand controllers, they're easier to build option to the Knuckles ones but they're lacking the finger tracking aspect.
 These controllers support analog trigger though it's not enabled by default, to allow for it you just need to change a couple lines of code. They also have battery % monitoring but you need to calibrate that on your own and tends to not be super accurate.
 
