@@ -27,6 +27,8 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 8. Unpack the Firmware onto your desktop
 
+9. Install [Steam](https://store.steampowered.com/tags/en/Download)
+
 # First Sanity Check
 
 1. Open "Left_controller_Filter.ino" or "Right_controller_Filter.ino" - Depends on which one you downloaded.
