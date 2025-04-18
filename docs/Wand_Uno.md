@@ -5,7 +5,9 @@ These controllers support analog trigger though it's not enabled by default, to 
 
 # Environment Setup
 
-This guide assumes you have fresh Windows installation on your PC. Anything you have installed previously, might have an impact on this project. 
+This guide assumes you have fresh Windows installation on your PC. Anything you have installed previously, might have an impact on this project.
+
+1. Download and install the [CH340 Driver](https://cdn.sparkfun.com/assets/learn_tutorials/8/4/4/CH341SER.EXE)
 
 
 ## Hardware needed per controller is as follows:
