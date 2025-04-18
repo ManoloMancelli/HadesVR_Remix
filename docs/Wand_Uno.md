@@ -23,6 +23,10 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 6. Download [Wand Firmware](https://github.com/ManoloMancelli/HadesVR_Remix/tree/main/Software/Firmware%20-%20For%20the%20boards/Controller_HTC%20-%20Untested)
 
+7. Unpack the Firmware onto your desktop
+
+8. Open "Left_controller_Filter.ino"
+
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
