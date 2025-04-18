@@ -213,7 +213,11 @@ You can glue everything on a flat piece of cardboard so that nothing moves
 
 1. Wand works but is detected as Knuckle
 
-Make sure that you have correct controller type set in HadesVR driver config
+ - Make sure that you have correct controller type set in HadesVR driver config
 
 ![1](img/wand_controller_mode.png)
+
+2. Components got too hot and unglued from the cardboard
+
+ - Lol
 
