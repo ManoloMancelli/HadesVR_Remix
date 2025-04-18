@@ -29,6 +29,8 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 9. Install [Steam](https://store.steampowered.com/tags/en/Download)
 
+10. Install [SteamVR](https://store.steampowered.com/app/250820/SteamVR/)
+
 # First Sanity Check
 
 1. Open "Left_controller_Filter.ino" or "Right_controller_Filter.ino" - Depends on which one you downloaded.
