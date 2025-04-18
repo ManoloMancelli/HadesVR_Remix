@@ -198,6 +198,10 @@ Board should now go into calibration
 
 ![1](img/calibration.png)
 
+4. Wait couple of seconds for EEPROM writing
+
+Now the Wand controller is ready to go
+
 # Troubleshooting
 
 1. Wand works but is detected as Knuckle
