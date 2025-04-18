@@ -59,6 +59,10 @@ If you get this error, it means that Firmware is working and you can now proceed
 
 ![1](img/imu_wires.png)
 
+4. Solder IMU with wires to your Arduino UNO
+
+![1](img/uno_mpu_pinout.png)
+
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
 | --------- | ----------- | ----- | ------ |
