@@ -143,6 +143,10 @@ You can now proceed to the next steps
 
 ![1](img/tact_switch_marked.png)
 
+5. Connect the Tact Switches to your Arduino Uno
+
+![1](img/uno_with_tact_switch.png)
+
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
