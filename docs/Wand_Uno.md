@@ -111,6 +111,12 @@ You should now see this
 
 This means that now both NRF24 module and Gyroscope are working and you can continue to next steps.
 
+# Soldering LED
+
+1. Prepare one, blue LED
+
+![1](img/blue_led.png)
+
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
