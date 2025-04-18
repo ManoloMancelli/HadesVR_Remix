@@ -169,6 +169,13 @@ You can now proceed with the next steps
 
 ![1](img/joystick_no_goldpin.png)
 
+3. Prepare 5 pieces of wire
+
+4. Solder wires to each pin of the Joystick board
+
+![1](img/joystick_wires.png)
+
+
 # Gyroscope Calibration
 
 1. Connect your board to PC and open Serial Monitor again.
