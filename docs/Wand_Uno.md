@@ -125,6 +125,10 @@ LED should now light up when you connect the Arduino to PC
 
 ![1](img/arduino_with_led.png)
 
+You can now proceed to the next steps
+
+# Soldering Buttons
+
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
