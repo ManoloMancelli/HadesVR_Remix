@@ -198,4 +198,11 @@ Board should now go into calibration
 
 ![1](img/calibration.png)
 
-## Gyroscope Calibration
+# Troubleshooting
+
+1. Wand works but is detected as Knuckle
+
+Make sure that you have correct controller type set in HadesVR driver config
+
+![1](img/wand_controller_mode.png)
+
