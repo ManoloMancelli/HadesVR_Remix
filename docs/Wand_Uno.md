@@ -21,6 +21,8 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/rf24_lib.png)
 
+6. Download [Wand Firmware](https://github.com/ManoloMancelli/HadesVR_Remix/tree/main/Software/Firmware%20-%20For%20the%20boards/Controller_HTC%20-%20Untested)
+
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
