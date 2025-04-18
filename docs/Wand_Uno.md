@@ -135,6 +135,10 @@ You can now proceed to the next steps
 
 ![1](img/tact_switch.png)
 
+3. Twist three wires from one end with each other like this
+
+![1](img/tact_switch_twisted.png)
+
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
