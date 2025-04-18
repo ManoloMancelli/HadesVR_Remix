@@ -109,6 +109,8 @@ You should now see this
 
 ![1](img/serial_monitor3.png)
 
+This means that now both NRF24 module and Gyroscope are working and you can continue to next steps.
+
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
