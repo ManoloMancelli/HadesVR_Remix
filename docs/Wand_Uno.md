@@ -225,3 +225,7 @@ You can glue everything on a flat piece of cardboard so that nothing moves
 
  - 
 
+4. In-game Wand model looks like hand
+
+ - There are no custom models at this point. You are stuck with generic hand model.
+
