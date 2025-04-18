@@ -47,6 +47,18 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/serial_monitor1.png)
 
+If you get this error, it means that Firmware is working and you can now proceed to the next steps.
+
+# Soldering Gyroscope (IMU)
+
+1. Unplug your Arduino Uno from computer.
+
+2. Prepare 4 short wires (I use Kynar)
+
+3. Solder wires to your MPU board like below.
+
+![1](img/imu_wires.png)
+
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
 | --------- | ----------- | ----- | ------ |
