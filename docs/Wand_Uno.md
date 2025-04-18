@@ -221,3 +221,7 @@ You can glue everything on a flat piece of cardboard so that nothing moves
 
  - Lol
 
+3. Grip button logic is reversed. It's pressed when I don't press it and vice-versa.
+
+ - 
+
