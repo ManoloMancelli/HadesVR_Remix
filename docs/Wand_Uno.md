@@ -95,6 +95,10 @@ This means that the Gyroscope is working and you can proceed to the next steps.
 
 ![1](img/nrf_pinout.png)
 
+4. Solder the NRF24 to your Arduino UNO
+
+![1](img/uno_nrf_pinout.png)
+
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
