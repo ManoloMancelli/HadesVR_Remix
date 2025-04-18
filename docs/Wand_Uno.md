@@ -31,9 +31,9 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 2. Connect your Arduino Uno to PC with USB cable. (I'm using Uno Mini which is the same as regular one)
 
-3. Install all of the Drivers that Arduino pops-up
-
 ![1](img/uno_connect.png)
+
+3. Install all of the Drivers that Arduino pops-up
 
 4. Select correct board and COM port.
 
