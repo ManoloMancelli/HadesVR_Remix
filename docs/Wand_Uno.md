@@ -43,6 +43,10 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 5. Upload Wand Firmware to your Arduino board.
 
+6. Open Serial Monitor and check if there are any messages. It should show you IMU Error like below.
+
+![1](img/serial_monitor1.png)
+
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
 | --------- | ----------- | ----- | ------ |
