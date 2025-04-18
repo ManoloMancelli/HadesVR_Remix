@@ -11,6 +11,8 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 2. Download and install the [CH340 Driver](https://cdn.sparkfun.com/assets/learn_tutorials/8/4/4/CH341SER.EXE)
 
+3. Download [Arduino IDE](https://www.arduino.cc/en/software/)
+
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
