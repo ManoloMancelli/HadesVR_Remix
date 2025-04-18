@@ -139,6 +139,10 @@ You can now proceed to the next steps
 
 ![1](img/tact_switch_twisted.png)
 
+4. Glue the switches to a piece of cardboard and mark them down like this
+
+![1](img/tact_switch_marked.png)
+
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
