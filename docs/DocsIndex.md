@@ -31,14 +31,8 @@ These docs are still work in progress
 
 ## [Controllers](Controllers.md)
 
-- [Wand controller](Controllers.md#wand-controllers)
-    - [Hardware needed](Controllers.md#hardware-needed-per-controller-is-as-follows)
-    - [Controller Pinouts](Controllers.md#controller-pinouts-are-the-following)
-- [Index Controller](Controllers.md#knuckles-controllers)
-    - [Hardware needed](Controllers.md#hardware-needed-per-controller-is-as-follows-1)
-    - [Controller Pinouts](Controllers.md#controller-pinouts-are-the-following-1)
-- [Calibration](Controllers.md#calibration)
-
+- [Wand controller](Wand.md)
+- [Index Controller](Knuckle.md)
 
 ## [Tracking](Tracking.md)
 
