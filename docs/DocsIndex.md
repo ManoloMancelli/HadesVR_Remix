@@ -31,7 +31,7 @@ These docs are still work in progress
 
 ## [Controllers](Controllers.md)
 
-- [Wand controller](Wand.md)
+- [Arduino Uno Wand controller](Wand_Uno.md)
 - [Index Controller](Knuckle.md)
 
 ## [Tracking](Tracking.md)
