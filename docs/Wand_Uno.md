@@ -31,7 +31,7 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 10. Install [SteamVR](https://store.steampowered.com/app/250820/SteamVR/)
 
-11. Install [HadesVR Driver](driver.md)
+11. Install [HadesVR Driver](Driver.md)
 
 # First Sanity Check
 
