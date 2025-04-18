@@ -183,6 +183,8 @@ You should now have something like this
 
 ![1](img/uno_with_joystick.png)
 
+You can now proceed to next steps
+
 
 # Gyroscope Calibration
 
