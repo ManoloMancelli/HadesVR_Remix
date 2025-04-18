@@ -23,7 +23,7 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/rf24_lib.png)
 
-7. Download [Wand Firmware](https://github.com/ManoloMancelli/HadesVR_Remix/tree/main/Software/Firmware%20-%20For%20the%20boards/Controller%20HTC%20-%20Working)
+7. Download [Wand Firmware](https://github.com/ManoloMancelli/HadesVR_Remix/tree/main/Software/Firmware%20-%20For%20the%20boards/Arduino%20Uno%20Wand%20-%20Working)
 
 8. Unpack the Firmware onto your desktop
 
