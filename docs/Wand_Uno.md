@@ -151,7 +151,19 @@ You should now have something like this
 
 ![1](img/uno_with_tact_switch.png)
 
-You can now connect it back to PC and perform the Calibration
+You can now proceed with the next steps
+
+# Gyroscope Calibration
+
+1. Connect your board to PC and open Serial Monitor again.
+
+2. Press and hold the SYS and MENU buttons
+
+3. While holding both buttons, push built-in reset button on your Arduino Uno.
+
+Board should now go into calibration
+
+![1](img/calibration.png)
 
 
 ## Hardware needed per controller is as follows:
