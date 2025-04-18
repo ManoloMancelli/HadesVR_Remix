@@ -229,3 +229,7 @@ You can glue everything on a flat piece of cardboard so that nothing moves
 
  - There are no custom models at this point. You are stuck with generic hand model.
 
+5. Rotation is working but controller doesn't move when I wave my hand
+
+ - Wand controller requires PSMoveService EX and PSEye / HadesVR Base Stations to work in 6DoF
+
