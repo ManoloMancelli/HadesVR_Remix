@@ -1,9 +1,11 @@
 # Controllers
 
-This doc talks about designing your own DIY controllers, if you want to see the custom ones (with the custom pcbs and 3d printable parts) you should check out the [Custom Hardware]() list.
+This is the place for everyone who would want to build their own HadesVR controllers.
 
-HadesVR supports two kinds of controllers as of right now: Wand-like controllers and Knuckles-like controllers with all of their supported inputs respectively.
-Controllers connect through RF, directly to the Headset which then sends the received controller data over to the PC, both controllers require similar hardware with some minor differences:
+HadesVR supports two kinds of controllers as of right now: Wand controllers and Knuckles.
+
+Controllers connect through RF24, directly to the Headset or Receiver which then sends the controller data to PC via USB. 
+
 
 # Wand Controllers:
 
