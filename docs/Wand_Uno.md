@@ -75,6 +75,12 @@ You can find the IMU type directly on the chip
 
 ![1](img/imu_chip.png)
 
+7. Upload the Firmware to your Arduino Uno
+
+8. Open Serial Monitor again. It should now show you this:
+
+![1](img/serial_monitor2.png)
+
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
