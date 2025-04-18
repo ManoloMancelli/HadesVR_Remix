@@ -99,7 +99,7 @@ This means that the Gyroscope is working and you can proceed to the next steps.
 
 ![1](img/uno_nrf_pinout.png)
 
-You should now have something like thi:
+You should now have something like this
 
 ![1](img/uno_with_nrf.png)
 
