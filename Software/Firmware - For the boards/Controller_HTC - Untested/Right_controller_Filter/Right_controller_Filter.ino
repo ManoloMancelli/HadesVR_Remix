@@ -25,7 +25,7 @@
 
 #define SERIAL_DEBUG
 #define IMU_ADDRESS     0x68                // You can find it out by using the IMUIdentifier example
-MPU9250 IMU;                                // IMU type
+MPU6050 IMU;                                // IMU type
 #define CALPIN              4               //pin to start mag calibration at power on
 
 #define SysPin              4
@@ -126,7 +126,7 @@ void setup() {
   pinMode(TriggerPin, INPUT_PULLUP);
 
 #ifdef SERIAL_DEBUG
-  Serial.begin(38400);
+  Serial.begin(9600);
 #endif
 
   radio.begin();
