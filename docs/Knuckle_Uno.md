@@ -1,4 +1,4 @@
-# Knuckles Controllers
+# Arduino Uno Index Controllers
 
 Made to simulate the Valve Index knuckles' controllers, with full support for finger tracking with a bit of a harder build.
 These also support analog triggers though it is disabld by default.
