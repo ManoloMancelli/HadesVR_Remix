@@ -175,6 +175,14 @@ You can now proceed with the next steps
 
 ![1](img/joystick_wires.png)
 
+5. Connect the Joystick to your Arduino Uno
+
+![1](img/uno_joystick_pinout.png)
+
+You should now have something like this
+
+![1](img/uno_with_joystick.png)
+
 
 # Gyroscope Calibration
 
