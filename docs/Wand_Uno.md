@@ -223,7 +223,7 @@ You can glue everything on a flat piece of cardboard so that nothing moves
 
 3. Grip button logic is reversed. It's pressed when I don't press it and vice-versa.
 
- - 
+ - You have installed "Normally Open" tact switch. Replace it with "Normally closed" one.
 
 4. In-game Wand model looks like hand
 
@@ -232,4 +232,11 @@ You can glue everything on a flat piece of cardboard so that nothing moves
 5. Rotation is working but controller doesn't move when I wave my hand
 
  - Wand controller requires PSMoveService EX and PSEye / HadesVR Base Stations to work in 6DoF
+
+6. Joystick is not working properly
+
+ - Make sure you changed the joystick values
+
+![1](img/joystick_values.png)
+
 
