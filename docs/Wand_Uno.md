@@ -239,4 +239,8 @@ You can glue everything on a flat piece of cardboard so that nothing moves
 
 ![1](img/joystick_values.png)
 
+7. SteamVR shows low controller battery
+
+ - At this moment, there is no battery measurement system. Just ignore it.
+
 
