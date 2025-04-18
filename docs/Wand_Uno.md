@@ -202,6 +202,10 @@ Board should now go into calibration
 
 Now the Wand controller is ready to go
 
+You can glue everything on a flat piece of cardboard so that nothing moves
+
+![1](img/uno_cardboard.png)
+
 # Troubleshooting
 
 1. Wand works but is detected as Knuckle
