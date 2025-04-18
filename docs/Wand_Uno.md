@@ -13,6 +13,8 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 3. Download [Arduino IDE](https://www.arduino.cc/en/software/)
 
+4. Install FastIMU library inside Arduino.
+![1](img/fastimu_lib.png)
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
