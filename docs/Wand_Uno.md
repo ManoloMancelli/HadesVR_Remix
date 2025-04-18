@@ -81,6 +81,10 @@ You can find the IMU type directly on the chip
 
 ![1](img/serial_monitor2.png)
 
+This means that the Gyroscope is working and you can proceed to the next steps.
+
+# Soldering NRF24 (Wireless Transceiver)
+
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
