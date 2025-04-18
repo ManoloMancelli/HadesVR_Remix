@@ -41,6 +41,7 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/arduino_board_select.png)
 
+5. Upload Wand Firmware to your Arduino board.
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
