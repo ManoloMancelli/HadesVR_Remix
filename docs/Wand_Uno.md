@@ -67,6 +67,10 @@ If you get this error, it means that Firmware is working and you can now proceed
 
 ![1](img/uno_with_mpu.png)
 
+6. Connect your Arduino Uno to PC and change the imu type to yours
+
+![1](img/imu_type.png)
+
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
 | --------- | ----------- | ----- | ------ |
