@@ -103,6 +103,12 @@ You should now have something like this
 
 ![1](img/uno_with_nrf.png)
 
+5. Connect your Arduino Uno to PC and open the Serial Monitor again.
+
+You should now see this
+
+![1](img/serial_monitor3.png)
+
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
