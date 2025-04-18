@@ -31,6 +31,8 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 10. Install [SteamVR](https://store.steampowered.com/app/250820/SteamVR/)
 
+11. Install [HadesVR Driver](driver.md)
+
 # First Sanity Check
 
 1. Open "Left_controller_Filter.ino" or "Right_controller_Filter.ino" - Depends on which one you downloaded.
