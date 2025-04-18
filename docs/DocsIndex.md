@@ -32,7 +32,7 @@ These docs are still work in progress
 ## [Controllers](Controllers.md)
 
 - [Arduino Uno Wand controller](Wand_Uno.md)
-- [Index Controller](Knuckle.md)
+- [Arduino Uno Index Controller](Knuckle_Uno.md)
 
 ## [Tracking](Tracking.md)
 
