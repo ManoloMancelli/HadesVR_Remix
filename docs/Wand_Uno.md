@@ -129,6 +129,12 @@ You can now proceed to the next steps
 
 # Soldering Buttons
 
+1. Prepare 3 Tact Switch buttons
+
+2. Solder one wire at each end of the Tact Switch. Repeat for all three.
+
+![1](img/tact_switch.png)
+
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
