@@ -63,6 +63,10 @@ If you get this error, it means that Firmware is working and you can now proceed
 
 ![1](img/uno_mpu_pinout.png)
 
+5. You should now have something like this
+
+![1](img/uno_with_mpu.png)
+
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
 | --------- | ----------- | ----- | ------ |
