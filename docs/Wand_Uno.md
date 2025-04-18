@@ -151,6 +151,8 @@ You should now have something like this
 
 ![1](img/uno_with_tact_switch.png)
 
+You can now connect it back to PC and perform the Calibration
+
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
