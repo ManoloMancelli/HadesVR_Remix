@@ -13,17 +13,19 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 3. Download [Arduino IDE](https://www.arduino.cc/en/software/)
 
-4. Install FastIMU library inside Arduino.
+4. Download [7Zip](https://www.7-zip.org/download.html)
+
+5. Install FastIMU library inside Arduino.
 
 ![1](img/fastimu_lib.png)
 
-5. Install RF24 library inside Arduino.
+6. Install RF24 library inside Arduino.
 
 ![1](img/rf24_lib.png)
 
-6. Download [Wand Firmware](https://github.com/ManoloMancelli/HadesVR_Remix/tree/main/Software/Firmware%20-%20For%20the%20boards/Controller_HTC%20-%20Untested)
+7. Download [Wand Firmware](https://github.com/ManoloMancelli/HadesVR_Remix/tree/main/Software/Firmware%20-%20For%20the%20boards/Controller_HTC%20-%20Untested)
 
-7. Unpack the Firmware onto your desktop
+8. Unpack the Firmware onto your desktop
 
 # First Sanity Check
 
