@@ -71,6 +71,11 @@ If you get this error, it means that Firmware is working and you can now proceed
 
 ![1](img/imu_type.png)
 
+You can find the IMU type directly on the chip
+
+![1](img/imu_chip.png)
+
+
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
 | --------- | ----------- | ----- | ------ |
