@@ -85,6 +85,10 @@ This means that the Gyroscope is working and you can proceed to the next steps.
 
 # Soldering NRF24 (Wireless Transceiver)
 
+1. (optional) Remove the goldpins from your NRF24 board.
+
+![1](img/nrf_no_pins.png)
+
 
 ## Hardware needed per controller is as follows:
 | Component | Purpose | Notes | Amount |
