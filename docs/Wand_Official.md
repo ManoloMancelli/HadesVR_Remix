@@ -66,6 +66,10 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/wandofficial/pcb_joystick.png)
 
+5. Glue the cell holder to PCB and solder the voltage wires
+
+![1](img/wandofficial/pcb_cell.png)
+
 
 # Soldering Gyroscope (IMU)
 
