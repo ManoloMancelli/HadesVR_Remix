@@ -7,5 +7,6 @@ HadesVR supports two kinds of controllers as of right now: Wand controllers and 
 Controllers connect through RF24, directly to the Headset or Receiver which then sends the controller data to PC via USB. 
 
 
-# [Wand Controllers](Wand.md)
+# [Arduino Uno Wand Controller](Wand_Uno.md)
+# [Arduino Mega Wand Controller](Wand_Mega.md)
 # [Knuckle Controllers](Knuckle.md)
