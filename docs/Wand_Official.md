@@ -14,6 +14,10 @@ These controllers aim to simulate the original Vive wand controllers. This build
 
 ![1](img/wandofficial/pro_mini.png)
 
+3. Buy one 18650 cell and cell holder
+
+![1](img/wandofficial/cell.png)
+
 # Environment Setup
 
 This guide assumes you have fresh Windows installation on your PC. Anything you have installed previously, might have an impact on this project.
