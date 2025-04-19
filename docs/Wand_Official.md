@@ -148,6 +148,9 @@ You can check what type it is directly on your board
 
 ![1](img/wandofficial/firmware_role.png)
 
+5. Define the Battery and Joystick values
+
+![1](img/wandofficial/firmware_battery_joystick.png)
 
 
 
