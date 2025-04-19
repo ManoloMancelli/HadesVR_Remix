@@ -90,6 +90,10 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/wandofficial/pcb_pro_mini.png)
 
+11. Shorten the Gyroscope (Mpu) goldpins with tweezers
+
+![1](img/wandofficial/pcb_short_mpu.png)
+
 
 
 # Gyroscope Calibration
