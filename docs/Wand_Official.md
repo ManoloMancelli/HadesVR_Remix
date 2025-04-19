@@ -74,6 +74,10 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/wandofficial/pcb_led.png)
 
+7. Solder the 470nF capacitor - C1. I've used the 0402 SMD version.
+
+![1](img/wandofficial/pcb_c1.png)
+
 # Soldering Gyroscope (IMU)
 
 1. Unplug your Arduino Uno from computer.
