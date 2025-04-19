@@ -98,6 +98,11 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/wandofficial/pcb_nrf.png)
 
+13. Solder a piece of wire between Gyroscope (MPU) capactior and 3V3 pin
+
+![1](img/wandofficial/pcb_3v3.png)
+
+
 
 
 
