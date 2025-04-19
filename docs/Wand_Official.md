@@ -82,6 +82,10 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/wandofficial/pcb_resistor.png)
 
+9. Solder the Gyroscope (MPU) on top of the goldpins. Make sure it's parallel and as close to the PCB as possible.
+
+![1](img/wandofficial/pcb_mpu.png)
+
 # Soldering Gyroscope (IMU)
 
 1. Unplug your Arduino Uno from computer.
