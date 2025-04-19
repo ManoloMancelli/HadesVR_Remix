@@ -42,13 +42,13 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 2. Connect your Arduino Mega to PC with USB cable.
 
-![1](img/mega_connect.png)
+![1](img/megawand/mega_connect.png)
 
 3. Install all of the Drivers that Arduino pops-up
 
 4. Select correct board and COM port.
 
-![1](img/mega_board_select.png)
+![1](img/megawand/mega_board_select.png)
 
 5. Upload Wand Firmware to your Arduino board.
 
@@ -74,7 +74,7 @@ If you get this error, it means that Firmware is working and you can now proceed
 
 5. You should now have something like this
 
-![1](img/mega_with_mpu.png)
+![1](img/megawand/mega_with_mpu.png)
 
 6. Connect your Arduino Mega to PC and change the imu type to yours
 
