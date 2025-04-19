@@ -78,6 +78,10 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/wandofficial/pcb_c1.png)
 
+8. Solder the 3.3k resistor - R2 and 1k resistor - R1. I've used the 0402 SMD version.
+
+![1](img/wandofficial/pcb_resistor.png)
+
 # Soldering Gyroscope (IMU)
 
 1. Unplug your Arduino Uno from computer.
