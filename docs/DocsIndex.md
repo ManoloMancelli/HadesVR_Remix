@@ -31,10 +31,6 @@ These docs are still work in progress
 
 ## [Controllers](Controllers.md)
 
-- [Arduino Uno Wand controller](Wand_Uno.md)
-- [Arduino Uno Index Controller](Knuckle_Uno.md)
-- [Arduino MEGA Wand controller](Wand_Mega.md)
-
 ## [Tracking](Tracking.md)
 
 - [What you'll need](Tracking.md#what-youll-need)
