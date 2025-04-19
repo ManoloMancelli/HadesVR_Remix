@@ -130,6 +130,14 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/wandofficial/pcb_charge.png)
 
+# Firmware Preparation
+
+
+
+
+
+
+
 
 
 
