@@ -126,6 +126,9 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/wandofficial/pcb_cell2.png)
 
+20. Connect the USB cable to TP4056 and charge the battery. Red light means that the battery is charging. When it's fully charged, green light will be lit.
+
+![1](img/wandofficial/pcb_charge.png)
 
 
 
