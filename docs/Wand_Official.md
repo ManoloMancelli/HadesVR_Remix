@@ -48,7 +48,7 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 11. Install [HadesVR Driver](Driver.md)
 
-# Soldering PCB
+# PCB Assembly
 
 1. Solder goldpins to your Arduino Pro Mini
 
@@ -129,7 +129,6 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 20. Connect the USB cable to TP4056 and charge the battery. Red light means that the battery is charging. When it's fully charged, green light will be lit.
 
 ![1](img/wandofficial/pcb_charge.png)
-
 
 
 
