@@ -10,6 +10,9 @@ These controllers aim to simulate the original Vive wand controllers. This build
 
 ![1](img/wandofficial/wand_pcb.png)
 
+2. Buy Arduino Pro Mini 3.3V 8mHz - Very important!
+
+![1](img/wandofficial/pro_mini.png)
 
 # Environment Setup
 
