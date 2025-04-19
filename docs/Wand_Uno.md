@@ -70,11 +70,11 @@ If you get this error, it means that Firmware is working and you can now proceed
 
 4. Solder IMU with wires to your Arduino UNO
 
-![1](img/uno_mpu_pinout.png)
+![1](img/unowand/uno_mpu_pinout.png)
 
 5. You should now have something like this
 
-![1](img/uno_with_mpu.png)
+![1](img/unowand/uno_with_mpu.png)
 
 6. Connect your Arduino Uno to PC and change the imu type to yours
 
@@ -106,11 +106,11 @@ This means that the Gyroscope is working and you can proceed to the next steps.
 
 4. Solder the NRF24 to your Arduino UNO
 
-![1](img/uno_nrf_pinout.png)
+![1](img/unowand/uno_nrf_pinout.png)
 
 You should now have something like this
 
-![1](img/uno_with_nrf.png)
+![1](img/unowand/uno_with_nrf.png)
 
 5. Connect your Arduino Uno to PC and open the Serial Monitor again.
 
@@ -132,7 +132,7 @@ This means that now both NRF24 module and Gyroscope are working and you can cont
 
 LED should now light up when you connect the Arduino to PC
 
-![1](img/arduino_with_led.png)
+![1](img/unowand/uno_with_led.png)
 
 You can now proceed to the next steps
 
@@ -154,11 +154,11 @@ You can now proceed to the next steps
 
 5. Connect the Tact Switches to your Arduino Uno
 
-![1](img/uno_buttons_pinout.png)
+![1](img/unowand/uno_buttons_pinout.png)
 
 You should now have something like this
 
-![1](img/uno_with_tact_switch.png)
+![1](img/unowand/uno_with_tact_switch.png)
 
 You can now proceed with the next steps
 
@@ -180,11 +180,11 @@ You can now proceed with the next steps
 
 5. Connect the Joystick to your Arduino Uno
 
-![1](img/uno_joystick_pinout.png)
+![1](img/unowand/uno_joystick_pinout.png)
 
 You should now have something like this
 
-![1](img/uno_with_joystick.png)
+![1](img/unowand/uno_with_joystick.png)
 
 You can now proceed to next steps
 
@@ -207,7 +207,7 @@ Now the Wand controller is ready to go
 
 You can glue everything on a flat piece of cardboard so that nothing moves
 
-![1](img/uno_cardboard.png)
+![1](img/unowand/uno_cardboard.png)
 
 # Troubleshooting
 
