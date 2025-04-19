@@ -110,8 +110,13 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/wandofficial/pcb_tp4056.png)
 
+16. Spray whole board with IPA
 
+![1](img/wandofficial/pcb_ipa.png)
 
+17. Brush entire board with toothbrush. Don't use the one for your teeth lol. Semi-hard brush works the best. This will remove any flux from the PCB
+
+![1](img/wandofficial/brush.png)
 
 
 
