@@ -174,7 +174,15 @@ You should now have something like this
 
 ![1](img/wandofficial/uno_port.png)
 
-5. Connect the Arduino Uno with wires to your Arduino Pro Mini
+5. Select the ArduinoISP sketch under the Examples section
+
+![1](img/wandofficial/isp_sketch.png)
+
+6. Upload the sketch to your Arduino Uno
+
+7. Unplug the Arduino Uno from your PC
+
+8. Connect the Arduino Uno with wires to your Arduino Pro Mini
 
 ![1](img/wandofficial/pro_mini_program_wires.png)
 
