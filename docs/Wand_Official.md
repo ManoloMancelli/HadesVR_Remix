@@ -50,6 +50,10 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/wandofficial/pro_mini_pins.png)
 
+2. Solder goldpins to your PCB
+
+![1](img/wandofficial/pcb_pins.png)
+
 # Soldering Gyroscope (IMU)
 
 1. Unplug your Arduino Uno from computer.
