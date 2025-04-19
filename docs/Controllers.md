@@ -8,13 +8,13 @@ Controllers connect through RF24, directly to the Headset or Receiver which then
 
 # Wand Controllers
 
-![1](img/wands.png width="48")
+![1](img/wands.png)
 
 - [Arduino Uno Wand Controller](Wand_Uno.md)
 - [Arduino Mega Wand Controller](Wand_Mega.md)
 
 # Knuckle Controllers
 
-![1](img/knuckles.png | width=100)
+![1](img/knuckles.png)
 
 - [Arduino Uno Knuckle Controller](Knuckle_Uno.md)
