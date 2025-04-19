@@ -33,6 +33,7 @@ These docs are still work in progress
 
 - [Arduino Uno Wand controller](Wand_Uno.md)
 - [Arduino Uno Index Controller](Knuckle_Uno.md)
+- [Arduino MEGA Wand controller](Wand_Mega.md)
 
 ## [Tracking](Tracking.md)
 
