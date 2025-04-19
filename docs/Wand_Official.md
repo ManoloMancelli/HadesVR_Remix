@@ -122,6 +122,9 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/wandofficial/joystick_cap.png)
 
+19. Put the 18650 cell into the plastic holder. Make sure to put it in correctly! + goes to + and - goes to -
+
+![1](img/wandofficial/pcb_cell2.png)
 
 
 
