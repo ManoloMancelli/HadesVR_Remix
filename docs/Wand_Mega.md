@@ -4,7 +4,7 @@ These controllers aim to simulate the original Vive wand controllers. It's a sup
 
 It may not look super pretty but if you don't have any cash or just want to try if it works then it should be a perfect fit for you.
 
-![1](img/mega_cardboard.png)
+![1](img/megawand/mega_cardboard.png)
 
 # Environment Setup
 
@@ -106,11 +106,11 @@ This means that the Gyroscope is working and you can proceed to the next steps.
 
 4. Solder the NRF24 to your Arduino Mega
 
-![1](img/mega_nrf_pinout.png)
+![1](img/megawand/mega_nrf_pinout.png)
 
 You should now have something like this
 
-![1](img/mega_with_nrf.png)
+![1](img/megawand/mega_with_nrf.png)
 
 5. Connect your Arduino Mega to PC and open the Serial Monitor again.
 
@@ -132,7 +132,7 @@ This means that now both NRF24 module and Gyroscope are working and you can cont
 
 LED should now light up when you connect the Arduino to PC
 
-![1](img/mega_with_led.png)
+![1](img/megawand/mega_with_led.png)
 
 You can now proceed to the next steps
 
@@ -154,11 +154,11 @@ You can now proceed to the next steps
 
 5. Connect the Tact Switches to your Arduino Mega
 
-![1](img/mega_buttons_pinout.png)
+![1](img/megawand/mega_buttons_pinout.png)
 
 You should now have something like this
 
-![1](img/mega_with_tact_switch.png)
+![1](img/megawand/mega_with_tact_switch.png)
 
 You can now proceed with the next steps
 
@@ -180,11 +180,11 @@ You can now proceed with the next steps
 
 5. Connect the Joystick to your Arduino Mega
 
-![1](img/mega_joystick_pinout.png)
+![1](img/megawand/mega_joystick_pinout.png)
 
 You should now have something like this
 
-![1](img/mega_with_joystick.png)
+![1](img/megawand/mega_with_joystick.png)
 
 You can now proceed to next steps
 
@@ -207,7 +207,7 @@ Now the Wand controller is ready to go
 
 You can glue everything on a flat piece of cardboard so that nothing moves
 
-![1](img/mega_cardboard.png)
+![1](img/megawand/mega_cardboard.png)
 
 # Troubleshooting
 
