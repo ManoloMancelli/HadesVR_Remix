@@ -10,6 +10,7 @@ Controllers connect through RF24, directly to the Headset or Receiver which then
 
 ![1](img/wands.png)
 
+- [Official HadesVR Wand Controller](Wand_Official.md)
 - [Arduino Uno Wand Controller](Wand_Uno.md)
 - [Arduino Mega Wand Controller](Wand_Mega.md)
 
