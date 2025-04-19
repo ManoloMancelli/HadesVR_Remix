@@ -66,6 +66,12 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 If you get this error, it means that Firmware is working and you can now proceed to the next steps.
 
+# Soldering PCB
+
+1. Solder goldpins to your Arduino Pro Mini
+
+![1](img/wandofficial/pro_mini_pins.png)
+
 # Soldering Gyroscope (IMU)
 
 1. Unplug your Arduino Uno from computer.
