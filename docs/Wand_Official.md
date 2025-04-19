@@ -158,7 +158,7 @@ Now the Firmware is ready and you can proceed to next steps
 
 For this part I will be using separate, Arduino Uno board. You can also use the USBasp programmer but it's far easier to do it with Arduino Uno.
 
-1. Prepare 6 pieces of wire
+1. Prepare 5 pieces of wire
 
 2. Solder the wires to your Arduino Uno board
 
