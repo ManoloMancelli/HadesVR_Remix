@@ -185,6 +185,16 @@ You should now have something like this
 
 ![1](img/wandofficial/pro_mini_program_wires.png)
 
+9. Oper "Firmware.ino"
+
+10. Select Arduino Pro Micro 3.3V 8mHz
+
+11. Click Upload
+
+12. When you see "uploading", click the reset button on your Pro Mini board.
+
+13. Wait for the upload to finish
+
 
 
 
