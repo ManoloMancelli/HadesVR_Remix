@@ -144,6 +144,9 @@ You can check what type it is directly on your board
 
 ![1](img/imu_chip.png)
 
+4. Define whenever this is Right or Left controller
+
+![1](img/wandofficial/firmware_role.png)
 
 
 
