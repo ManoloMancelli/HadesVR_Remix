@@ -118,6 +118,9 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/wandofficial/brush.png)
 
+18. Put the plastic part on top of your joystick
+
+![1](img/wandofficial/joystick_cap.png)
 
 
 
