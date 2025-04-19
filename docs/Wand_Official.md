@@ -136,6 +136,14 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 2. Open "Firmware.ino"
 
+3. Change the Gyroscope (IMU) type to the one you used
+
+![1](img/wandofficial/firmware_mpu_type.png)
+
+You can check what type it is directly on your board
+
+![1](img/imu_chip.png)
+
 
 
 

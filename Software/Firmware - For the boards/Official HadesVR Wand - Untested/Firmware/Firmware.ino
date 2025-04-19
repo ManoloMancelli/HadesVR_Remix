@@ -23,9 +23,9 @@
 //************************************ USER CONFIGURABLE STUFF HERE*****************************************
 //==========================================================================================================
 
-//#define SERIAL_DEBUG
+#define SERIAL_DEBUG
 #define IMU_ADDRESS     0x68                // You can find it out by using the IMUIdentifier example
-MPU9250 IMU;                                // IMU type
+MPU6050 IMU;                                // IMU type
 
 //#define RIGHT_CONTROLLER                    // Leave the desired controller role uncommented to set.
 #define LEFT_CONTROLLER
@@ -169,7 +169,7 @@ void setup() {
   digitalWrite(Led2Pin, HIGH);
 
 #ifdef SERIAL_DEBUG
-  Serial.begin(38400);
+  Serial.begin(9600);
   debugPrintln("[INFO]\tSerial debug active.");
   #ifdef RIGHT_CONTROLLER
   debugPrintln("[INFO]\tController role: RIGHT");
