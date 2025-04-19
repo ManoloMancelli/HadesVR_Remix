@@ -8,6 +8,8 @@ These controllers aim to simulate the original Vive wand controllers. This build
 
 1. Order [Wand PCB](https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/Hardware/Wand%20Controllers/Hades%20VR%20Wand%20-%20Original%20Board.zip)
 
+![1](img/wandofficial/wand_pcb.png)
+
 
 # Environment Setup
 
