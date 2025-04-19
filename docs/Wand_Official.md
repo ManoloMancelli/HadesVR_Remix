@@ -132,7 +132,9 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 # Firmware Preparation
 
+1. Unzip the Firmware onto your desktop
 
+2. Open "Firmware.ino"
 
 
 
