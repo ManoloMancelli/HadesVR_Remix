@@ -4,7 +4,7 @@ These controllers aim to simulate the original Vive wand controllers. It's a sup
 
 It may not look super pretty but if you don't have any cash or just want to try if it works then it should be a perfect fit for you.
 
-![1](img/uno_cardboard.png)
+![1](img/unowand/uno_cardboard.png)
 
 # Environment Setup
 
