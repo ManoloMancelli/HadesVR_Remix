@@ -62,6 +62,10 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/wandofficial/pcb_buttons.png)
 
+4. Solder joystick to your PCB
+
+![1](img/wandofficial/pcb_joystick.png)
+
 
 # Soldering Gyroscope (IMU)
 
