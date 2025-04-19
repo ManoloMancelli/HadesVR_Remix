@@ -160,7 +160,17 @@ For this part I will be using separate, Arduino Uno board. You can also use the 
 
 1. Prepare 5 pieces of wire
 
-2. Solder the wires to your Arduino Uno board
+2. Open Arduino IDE on your PC and connect Arduino Uno with USB.
+
+3. Select Arduino Uno and correct port.
+
+![1](img/wandofficial/uno_port.png)
+
+4. Create a new, empty sketch
+
+5. Upload the sketch to your Arduino Uno
+
+6. Solder the wires to your Arduino Uno board
 
 ![1](img/wandofficial/uno_pinout.png)
 
@@ -168,17 +178,6 @@ You should now have something like this
 
 ![1](img/wandofficial/uno_wires.png)
 
-3. Open Arduino IDE on your PC and connect Arduino Uno with USB.
-
-4. Select Arduino Uno and correct port.
-
-![1](img/wandofficial/uno_port.png)
-
-5. Select the ArduinoISP sketch under the Examples section
-
-![1](img/wandofficial/isp_sketch.png)
-
-6. Upload the sketch to your Arduino Uno
 
 7. Unplug the Arduino Uno from your PC
 
