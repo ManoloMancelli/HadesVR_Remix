@@ -94,6 +94,22 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/wandofficial/pcb_short_mpu.png)
 
+12. Solder the NRF24 module on top of the goldpins. Make sure it's higher than Gyroscope (MPU) and it's not touching it
+
+![1](img/wandofficial/pcb_nrf.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Gyroscope Calibration
