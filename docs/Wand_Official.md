@@ -58,6 +58,11 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/wandofficial/pcb_pins.png)
 
+3. Solder buttons to your PCB
+
+![1](img/wandofficial/pcb_buttons.png)
+
+
 # Soldering Gyroscope (IMU)
 
 1. Unplug your Arduino Uno from computer.
