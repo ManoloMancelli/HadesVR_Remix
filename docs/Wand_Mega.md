@@ -132,7 +132,7 @@ This means that now both NRF24 module and Gyroscope are working and you can cont
 
 LED should now light up when you connect the Arduino to PC
 
-![1](img/arduino_with_led.png)
+![1](img/mega_with_led.png)
 
 You can now proceed to the next steps
 
