@@ -102,6 +102,9 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/wandofficial/pcb_3v3.png)
 
+14. Place a jumper on top of SRC and BAT goldpin. I don't have any jumpers right now so I will use a piece of wire instead.
+
+![1](img/wandofficial/pcb_src_goldpin.png)
 
 
 
