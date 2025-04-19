@@ -70,7 +70,7 @@ If you get this error, it means that Firmware is working and you can now proceed
 
 4. Solder IMU with wires to your Arduino Mega
 
-![1](img/mega_mpu_pinout.png)
+![1](img/megawand/mega_mpu_pinout.png)
 
 5. You should now have something like this
 
