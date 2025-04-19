@@ -154,6 +154,34 @@ You can check what type it is directly on your board
 
 Now the Firmware is ready and you can proceed to next steps
 
+# Firmware Flashing
+
+For this part I will be using separate, Arduino Uno board. You can also use the USBasp programmer but it's far easier to do it with Arduino Uno.
+
+1. Prepare 6 pieces of wire
+
+2. Solder the wires to your Arduino Uno board
+
+![1](img/wandofficial/uno_pinout.png)
+
+You should now have something like this
+
+![1](img/wandofficial/uno_wires.png)
+
+3. Connect the Arduino Uno with wires to your Arduino Pro Mini
+
+![1](img/wandofficial/pro_mini_program_wires.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
