@@ -4,6 +4,10 @@ These controllers aim to simulate the original Vive wand controllers. This build
 
 ![1](img/wandofficial/uno_cardboard.png)
 
+# Hardware Setup
+
+1. Order [Wand PCB](https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/Hardware/Wand%20Controllers/Hades%20VR%20Wand%20-%20Original%20Board.zip)
+
 # Environment Setup
 
 This guide assumes you have fresh Windows installation on your PC. Anything you have installed previously, might have an impact on this project.
