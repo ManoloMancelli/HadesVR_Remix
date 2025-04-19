@@ -154,7 +154,7 @@ You can now proceed to the next steps
 
 5. Connect the Tact Switches to your Arduino Mega
 
-![1](img/uno_buttons_pinout.png)
+![1](img/mega_buttons_pinout.png)
 
 You should now have something like this
 
