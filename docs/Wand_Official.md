@@ -44,28 +44,6 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 11. Install [HadesVR Driver](Driver.md)
 
-# First Sanity Check
-
-1. Open "Left_controller_Filter.ino" or "Right_controller_Filter.ino" - Depends on which one you downloaded.
-
-2. Connect your Arduino Uno to PC with USB cable. (I'm using Uno Mini which is the same as regular one)
-
-![1](img/wandofficial/uno_connect.png)
-
-3. Install all of the Drivers that Arduino pops-up
-
-4. Select correct board and COM port.
-
-![1](img/wandofficial/uno_board_select.png)
-
-5. Upload Wand Firmware to your Arduino board.
-
-6. Open Serial Monitor and check if there are any messages. It should show you IMU Error like below.
-
-![1](img/serial_monitor1.png)
-
-If you get this error, it means that Firmware is working and you can now proceed to the next steps.
-
 # Soldering PCB
 
 1. Solder goldpins to your Arduino Pro Mini
