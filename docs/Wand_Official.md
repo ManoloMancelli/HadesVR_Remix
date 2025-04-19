@@ -152,6 +152,8 @@ You can check what type it is directly on your board
 
 ![1](img/wandofficial/firmware_battery_joystick.png)
 
+Now the Firmware is ready and you can proceed to next steps
+
 
 
 
