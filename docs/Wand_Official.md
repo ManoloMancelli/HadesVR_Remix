@@ -106,7 +106,9 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/wandofficial/pcb_src_goldpin.png)
 
+15. Solder the TP4056 module using goldpin pieces
 
+![1](img/wandofficial/pcb_tp4056.png)
 
 
 
