@@ -1,8 +1,6 @@
 # Official HadesVR Wand Controller
 
-These controllers aim to simulate the original Vive wand controllers. It's a super easy build and it uses only off-the-shelf components.
-
-It may not look super pretty but if you don't have any cash or just want to try if it works then it should be a perfect fit for you.
+These controllers aim to simulate the original Vive wand controllers. This build uses custom-ordered Wand PCB and off-the-shelf components.
 
 ![1](img/wandofficial/uno_cardboard.png)
 
