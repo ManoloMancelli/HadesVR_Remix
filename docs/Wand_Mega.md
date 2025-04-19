@@ -1,10 +1,10 @@
-# Arduino Uno Wand Controllers
+# Arduino Mega Wand Controllers
 
 These controllers aim to simulate the original Vive wand controllers. It's a super easy build and it uses only off-the-shelf components.
 
 It may not look super pretty but if you don't have any cash or just want to try if it works then it should be a perfect fit for you.
 
-![1](img/uno_cardboard.png)
+![1](img/mega_cardboard.png)
 
 # Environment Setup
 
@@ -40,9 +40,9 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 1. Open "Left_controller_Filter.ino" or "Right_controller_Filter.ino" - Depends on which one you downloaded.
 
-2. Connect your Arduino Uno to PC with USB cable. (I'm using Uno Mini which is the same as regular one)
+2. Connect your Arduino Mega to PC with USB cable.
 
-![1](img/uno_connect.png)
+![1](img/mega_connect.png)
 
 3. Install all of the Drivers that Arduino pops-up
 
@@ -60,7 +60,7 @@ If you get this error, it means that Firmware is working and you can now proceed
 
 # Soldering Gyroscope (IMU)
 
-1. Unplug your Arduino Uno from computer.
+1. Unplug your Arduino Mega from computer.
 
 2. Prepare 4 short wires (I use Kynar)
 
@@ -68,15 +68,15 @@ If you get this error, it means that Firmware is working and you can now proceed
 
 ![1](img/imu_wires.png)
 
-4. Solder IMU with wires to your Arduino UNO
+4. Solder IMU with wires to your Arduino Mega
 
-![1](img/uno_mpu_pinout.png)
+![1](img/mega_mpu_pinout.png)
 
 5. You should now have something like this
 
-![1](img/uno_with_mpu.png)
+![1](img/mega_with_mpu.png)
 
-6. Connect your Arduino Uno to PC and change the imu type to yours
+6. Connect your Arduino Mega to PC and change the imu type to yours
 
 ![1](img/imu_type.png)
 
@@ -84,7 +84,7 @@ You can find the IMU type directly on the chip
 
 ![1](img/imu_chip.png)
 
-7. Upload the Firmware to your Arduino Uno
+7. Upload the Firmware to your Arduino Mega
 
 8. Open Serial Monitor again. It should now show you this:
 
@@ -104,15 +104,15 @@ This means that the Gyroscope is working and you can proceed to the next steps.
 
 ![1](img/nrf_pinout.png)
 
-4. Solder the NRF24 to your Arduino UNO
+4. Solder the NRF24 to your Arduino Mega
 
-![1](img/uno_nrf_pinout.png)
+![1](img/mega_nrf_pinout.png)
 
 You should now have something like this
 
-![1](img/uno_with_nrf.png)
+![1](img/mega_with_nrf.png)
 
-5. Connect your Arduino Uno to PC and open the Serial Monitor again.
+5. Connect your Arduino Mega to PC and open the Serial Monitor again.
 
 You should now see this
 
@@ -126,9 +126,9 @@ This means that now both NRF24 module and Gyroscope are working and you can cont
 
 ![1](img/blue_led.png)
 
-2. Solder the longer pin to the 5V pin of the Arduino Uno
+2. Solder the longer pin to the 5V pin of the Arduino Mega
 
-3. Solder the shorter pin to the GND pin of the Arduino Uno
+3. Solder the shorter pin to the GND pin of the Arduino Mega
 
 LED should now light up when you connect the Arduino to PC
 
@@ -152,13 +152,13 @@ You can now proceed to the next steps
 
 ![1](img/tact_switch_marked.png)
 
-5. Connect the Tact Switches to your Arduino Uno
+5. Connect the Tact Switches to your Arduino Mega
 
 ![1](img/uno_buttons_pinout.png)
 
 You should now have something like this
 
-![1](img/uno_with_tact_switch.png)
+![1](img/mega_with_tact_switch.png)
 
 You can now proceed with the next steps
 
@@ -178,13 +178,13 @@ You can now proceed with the next steps
 
 ![1](img/joystick_wires.png)
 
-5. Connect the Joystick to your Arduino Uno
+5. Connect the Joystick to your Arduino Mega
 
-![1](img/uno_joystick_pinout.png)
+![1](img/mega_joystick_pinout.png)
 
 You should now have something like this
 
-![1](img/uno_with_joystick.png)
+![1](img/mega_with_joystick.png)
 
 You can now proceed to next steps
 
@@ -195,7 +195,7 @@ You can now proceed to next steps
 
 2. Press and hold the SYS and MENU buttons
 
-3. While holding both buttons, push built-in reset button on your Arduino Uno.
+3. While holding both buttons, push built-in reset button on your Arduino Mega.
 
 Board should now go into calibration
 
@@ -207,7 +207,7 @@ Now the Wand controller is ready to go
 
 You can glue everything on a flat piece of cardboard so that nothing moves
 
-![1](img/uno_cardboard.png)
+![1](img/mega_cardboard.png)
 
 # Troubleshooting
 
