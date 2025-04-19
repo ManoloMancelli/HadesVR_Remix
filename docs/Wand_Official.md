@@ -168,7 +168,13 @@ You should now have something like this
 
 ![1](img/wandofficial/uno_wires.png)
 
-3. Connect the Arduino Uno with wires to your Arduino Pro Mini
+3. Open Arduino IDE on your PC and connect Arduino Uno with USB.
+
+4. Select Arduino Uno and correct port.
+
+![1](img/wandofficial/uno_port.png)
+
+5. Connect the Arduino Uno with wires to your Arduino Pro Mini
 
 ![1](img/wandofficial/pro_mini_program_wires.png)
 
