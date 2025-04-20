@@ -256,12 +256,13 @@ It's quite chunky since the original HadesVR Wand uses the 18650 cell for batter
 
 ![1](img/wandofficial/wire_glue.png)
 
-
-x. Connect the Led wires to your PCB
+8. Connect the Led wires to your PCB from underneath the board
 
 ![1](img/wandofficial/pcb_led2.png)
 
+9. Put the PCB inside the bottom 3D printed part
 
+![1](img/wandofficial/pcb_bottom_case.png)
 
 
 
