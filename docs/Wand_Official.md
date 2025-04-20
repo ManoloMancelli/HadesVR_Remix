@@ -218,6 +218,47 @@ You should now have something like this
 
 Calibration is now done and controller is ready to go.
 
+# 3D Printed Case
+
+I've designed a super-simple 3D printed case which works with this build.
+
+It's quite chunky since the original HadesVR Wand uses the 18650 cell for battery.
+
+![1](img/wandofficial/wand_controller.png)
+
+1. Download the [3D Files](https://makerworld.com/en)
+
+ - You don't have to use the Bambu Lab printer. You can download the STL files by clicking
+
+![1](img/wandofficial/makerworld_stl.png)
+
+2. Print the 3D files. I use Bambu Lab P1S. You can use any other 3D printer as long as it's calibrated properly
+
+3. Remove the Controller LED
+
+![1](img/wandofficial/pcb_led_removed.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Troubleshooting
 
