@@ -276,6 +276,9 @@ You should now have something like this
 
 ![1](img/wandofficial/wand_ping_pong.png)
 
+![1](img/wandofficial/wand_ping_pong2.png)
+
+
 
 
 
