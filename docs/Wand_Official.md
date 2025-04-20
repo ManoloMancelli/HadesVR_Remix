@@ -278,7 +278,9 @@ You should now have something like this
 
 ![1](img/wandofficial/wand_ping_pong2.png)
 
+12. Remove the Joystick cap
 
+![1](img/wandofficial/joystick_no_cap.png)
 
 
 
