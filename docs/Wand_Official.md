@@ -238,7 +238,13 @@ It's quite chunky since the original HadesVR Wand uses the 18650 cell for batter
 
 ![1](img/wandofficial/pcb_led_removed.png)
 
+4. Prepare brand-new Red LED.
 
+![1](img/wandofficial/red_led.png)
+
+5. Solder one wire to each Led pin
+
+![1](img/wandofficial/red_led_wires.png)
 
 
 
