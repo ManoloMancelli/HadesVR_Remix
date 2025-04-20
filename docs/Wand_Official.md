@@ -201,36 +201,23 @@ You should now have something like this
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 # Gyroscope Calibration
 
-1. Connect your board to PC and open Serial Monitor again.
+1. Make sure the controller is turned off
 
-2. Press and hold the SYS and MENU buttons
+2. While controller is off, press and hold :
 
-3. While holding both buttons, push built-in reset button on your Arduino Uno.
+ - Left Controller -> Middle and Right button
+ - Right Controller -> Middle and Left button
 
-Board should now go into calibration
+3. While pressing buttons, turn on the controller. Keep buttons pressed.
 
-![1](img/calibration.png)
+4. LED will flash two times and turn off. When it does so, place the controller on flat surface
 
-4. Wait couple of seconds for EEPROM writing
+5. Don't touch the controller until LED will light up again and stays lit.
 
-Now the Wand controller is ready to go
+Calibration is now done and controller is ready to go.
 
-You can glue everything on a flat piece of cardboard so that nothing moves
-
-![1](img/wandofficial/uno_cardboard.png)
 
 # Troubleshooting
 
@@ -240,29 +227,21 @@ You can glue everything on a flat piece of cardboard so that nothing moves
 
 ![1](img/wand_controller_mode.png)
 
-2. Components got too hot and unglued from the cardboard
-
- - Lol
-
-3. Grip button logic is reversed. It's pressed when I don't press it and vice-versa.
-
- - You have installed "Normally Open" tact switch. Replace it with "Normally closed" one.
-
-4. In-game Wand model looks like hand
+2. In-game Wand model looks like hand
 
  - There are no custom models at this point. You are stuck with generic hand model.
 
-5. Rotation is working but controller doesn't move when I wave my hand
+3. Rotation is working but controller doesn't move when I wave my hand
 
  - Wand controller requires PSMoveService EX and PSEye / HadesVR Base Stations to work in 6DoF
 
-6. Joystick is not working properly
+4. Joystick is not working properly
 
  - Make sure you changed the joystick values
 
 ![1](img/joystick_values.png)
 
-7. SteamVR shows low controller battery
+5. SteamVR shows low controller battery
 
  - At this moment, there is no battery measurement system. Just ignore it.
 
