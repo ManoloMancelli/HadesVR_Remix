@@ -282,8 +282,21 @@ You should now have something like this
 
 ![1](img/wandofficial/joystick_no_cap.png)
 
+13. Place the Top Cover upside down
 
+![1](img/wandofficial/top_cover_upside_down.png)
 
+14. Insert the Joystick cap
+
+![1](img/wandofficial/top_cover_joystick_cap.png)
+
+15. Insert the Buttons
+
+![1](img/wandofficial/top_cover_buttons.png)
+
+16. Carefully insert the PCB with Bottom Cover while top cover is still upside down
+
+![1](img/wandofficial/upside_down.png)
 
 
 
