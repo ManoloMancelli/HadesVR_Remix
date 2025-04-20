@@ -195,9 +195,9 @@ You should now have something like this
 
 13. Wait for the upload to finish
 
+14. (Optional) Remove the goldpin connector
 
-
-
+![1](img/wandofficial/pro_mini_goldpin_removed.png)
 
 
 
