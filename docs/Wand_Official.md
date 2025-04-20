@@ -254,7 +254,7 @@ It's quite chunky since the original HadesVR Wand uses the 18650 cell for batter
 
 7. Cover the wire hole with glue so that they won't be able to move and will stay in correct place
 
-![1](img/wandofficial/wire_thread.png)
+![1](img/wandofficial/wire_glue.png)
 
 
 x. Connect the Led wires to your PCB
