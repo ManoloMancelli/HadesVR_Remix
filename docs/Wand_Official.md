@@ -244,7 +244,10 @@ It's quite chunky since the original HadesVR Wand uses the 18650 cell for batter
 
 5. Solder one wire to each Led pin
 
+ - You should as well use heat shrink tubes on your pins. This will prevent any short circuits
+
 ![1](img/wandofficial/red_led_wires.png)
+
 
 
 
