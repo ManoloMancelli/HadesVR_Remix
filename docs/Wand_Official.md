@@ -223,7 +223,7 @@ Calibration is now done and controller is ready to go.
 
 1. Wand works but is detected as Knuckle
 
- - Make sure that you have correct controller type set in HadesVR driver config
+ - Make sure that you have correct "Controller Mode" set in HadesVR driver config
 
 ![1](img/wand_controller_mode.png)
 
