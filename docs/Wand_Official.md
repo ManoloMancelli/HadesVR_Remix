@@ -264,7 +264,13 @@ It's quite chunky since the original HadesVR Wand uses the 18650 cell for batter
 
 ![1](img/wandofficial/pcb_bottom_case.png)
 
+10. Prepare Ping Pong ball. Make a 8mm hole with a drill. You can also use a phillips screwdriver.
 
+![1](img/wandofficial/ping_pong_hole.png)
+
+11. Glue the Ping Pong ball on top of the LED
+
+![1](img/wandofficial/ping_pong_led.png)
 
 
 
