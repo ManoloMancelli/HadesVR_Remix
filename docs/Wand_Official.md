@@ -226,9 +226,9 @@ It's quite chunky since the original HadesVR Wand uses the 18650 cell for batter
 
 ![1](img/wandofficial/wand_controller.png)
 
-1. Download the [3D Files](https://makerworld.com/en)
+1. Download the [3D Files](github)
 
- - You don't have to use the Bambu Lab printer. You can download the STL files by clicking
+ - If you have Bambu Lab printer like I do. You can get the files directly on [MakerWorld](https://makerworld.com/en)
 
 ![1](img/wandofficial/makerworld_stl.png)
 
