@@ -272,6 +272,10 @@ It's quite chunky since the original HadesVR Wand uses the 18650 cell for batter
 
 ![1](img/wandofficial/ping_pong_led.png)
 
+You should now have something like this
+
+![1](img/wandofficial/wand_ping_pong.png)
+
 
 
 
