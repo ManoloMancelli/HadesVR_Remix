@@ -70,7 +70,7 @@ This guide assumes you have fresh Windows installation on your PC. Anything you 
 
 ![1](img/wandofficial/pcb_cell.png)
 
-6. Solder the Red LED and 68 Ohm resistor. Longer pin of LED goes towards the top of the board. Resistor polarity doesn't matter. You can solder it either way.
+6. Solder the Red LED and 68 Ohm resistor. Longer pin of LED goes towards the bottom of the board. Resistor polarity doesn't matter. You can solder it either way.
 
 ![1](img/wandofficial/pcb_led.png)
 
