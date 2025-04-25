@@ -2,7 +2,7 @@
 
 These controllers aim to simulate the original Vive wand controllers. This build uses custom-ordered Wand PCB and off-the-shelf components.
 
-![1](img/wandofficial/wand_official.png)
+![1](img/wandofficial/wand_controller.png)
 
 # Hardware Setup
 
