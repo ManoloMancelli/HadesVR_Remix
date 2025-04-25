@@ -228,7 +228,7 @@ It's quite chunky since the original HadesVR Wand uses the 18650 cell for batter
 
 1. Download the [3D Files](https://github.com/ManoloMancelli/HadesVR_Remix/tree/main/3D%20Prints/HadesVR%20Official%20Wand%20Housing)
 
- - If you have Bambu Lab printer like I do. You can get the files directly on [MakerWorld](https://makerworld.com/en)
+ - If you have Bambu Lab printer like I do. You can get the files directly on [MakerWorld](https://makerworld.com/en/models/1356541-hadesvr-wand#profileId-1400341)
 
 ![1](img/wandofficial/makerworld_stl.png)
 
