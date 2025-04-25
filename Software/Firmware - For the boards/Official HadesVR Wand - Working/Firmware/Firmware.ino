@@ -25,7 +25,7 @@
 
 #define SERIAL_DEBUG
 #define IMU_ADDRESS     0x68                // You can find it out by using the IMUIdentifier example
-MPU6050 IMU;                                // IMU type
+MPU6500 IMU;                                // IMU type
 
 #define RIGHT_CONTROLLER                    // Leave the desired controller role uncommented to set.
 //#define LEFT_CONTROLLER
