@@ -13,6 +13,8 @@ Dimensions are perfectly calibrated for the LS055R1SX04 display.
 
 I print all of the parts on BambuLab P1S. Other printers like Ender 3 will of course work but keep in mind that other brands use different material tolerances / stepper motor configurations, which may result in parts being too loose or even worse, too tight which may damage your electronics.
 
+You can get all of the STLs [Here](https://github.com/ManoloMancelli/HadesVR_Remix/tree/main/3D%20Prints/Persephone%201.0%20Headset)
+
 ![1](https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/docs/img/headset.png)
 
 
