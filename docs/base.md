@@ -6,7 +6,7 @@ This is a purely cosmetic mod. No need to do this if you don't have the skills o
 
 <img src="https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/docs/img/base_station.png" width="600">
 
-You can get the 3D files [here](https://github.com/ManoloMancelli/HadesVR_Remix/tree/main/Hardware/Base%20Stations)
+You can get the 3D files [here](https://github.com/ManoloMancelli/HadesVR_Remix/tree/main/3D%20Prints/Base%20Stations)
 
 [![Watch the video](https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/docs/img/yt/base_video.png)](https://youtu.be/boW6VLNxAPs)
 
