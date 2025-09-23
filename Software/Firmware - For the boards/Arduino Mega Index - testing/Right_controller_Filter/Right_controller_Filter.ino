@@ -23,15 +23,15 @@
 //************************************ USER CONFIGURABLE STUFF HERE*****************************************
 //==========================================================================================================
 
-//#define SERIAL_DEBUG
+#define SERIAL_DEBUG
 #define IMU_ADDRESS     0x68                // You can find it out by using the IMUIdentifier example
-MPU9250 IMU;                                // IMU type
+MPU6050 IMU;                                // IMU type
 #define CALPIN              5               //pin to start mag calibration at power on
 
 #define APin                4
 #define BPin                3
 #define SysPin              5
-#define FingerIndexPin      1
+#define FingerIndexPin      11
 #define FingerMiddlePin     6
 #define FingerRingPin       7
 #define FingerPinkyPin      8
@@ -133,9 +133,12 @@ void setup() {
   pinMode(SysPin, INPUT_PULLUP);
   pinMode(JoyClickPin, INPUT_PULLUP);
   pinMode(TriggerPin, INPUT_PULLUP);
+  pinMode(FingerPinkyPin, INPUT_PULLUP);
+  pinMode(fingerRing, INPUT_PULLUP);
+  pinMode(fingerMiddle, INPUT_PULLUP);
 
 #ifdef SERIAL_DEBUG
-  Serial.begin(38400);
+  Serial.begin(9600);
 #endif
 
   radio.begin();
@@ -338,25 +341,25 @@ void loop() {
   //  }
   data.gripForce = 0;
   if (digitalRead(FingerMiddlePin)) {
-    data.fingerMiddle = 255;
+    data.fingerMiddle = 0;
     data.gripForce += 128;
   }
   else {
-    data.fingerMiddle = 0;
+    data.fingerMiddle = 255;
   }
   if (digitalRead(FingerRingPin)) {
-    data.fingerRing = 255;
+    data.fingerRing = 0;
      data.gripForce += 64;
   }
   else {
-    data.fingerRing = 0;
+    data.fingerRing = 255;
   }
   if (digitalRead(FingerPinkyPin)) {
-    data.fingerPinky = 255;
+    data.fingerPinky = 0;
      data.gripForce += 63;
   }
   else {
-    data.fingerPinky = 0;
+    data.fingerPinky = 255;
   }
 
 
