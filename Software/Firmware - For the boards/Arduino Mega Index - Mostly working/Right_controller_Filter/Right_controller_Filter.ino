@@ -134,8 +134,8 @@ void setup() {
   pinMode(JoyClickPin, INPUT_PULLUP);
   pinMode(TriggerPin, INPUT_PULLUP);
   pinMode(FingerPinkyPin, INPUT_PULLUP);
-  pinMode(fingerRing, INPUT_PULLUP);
-  pinMode(fingerMiddle, INPUT_PULLUP);
+  pinMode(FingerRingPin, INPUT_PULLUP);
+  pinMode(FingerMiddlePin, INPUT_PULLUP);
 
 #ifdef SERIAL_DEBUG
   Serial.begin(9600);
