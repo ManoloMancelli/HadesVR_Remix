@@ -25,7 +25,7 @@
 
 #define SERIAL_DEBUG
 #define IMU_ADDRESS     0x68                // You can find it out by using the IMUIdentifier example
-MPU6050 IMU;                                // IMU type
+MPU9250 IMU;                                // IMU type
 #define CALPIN              5               //pin to start mag calibration at power on
 
 #define APin                4
