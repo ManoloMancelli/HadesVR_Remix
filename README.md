@@ -5,10 +5,13 @@ My Remixed version aims for more "streamlined" HadesVR experience.
 
 The setup includes DIY Headset and Controllers. You can also build the receiver only if you wish to use HadesVR controllers with your pre-existing headset.
 
-- # Headsets
-- # Controllers
-- # Accessories
-- # Persephone 1.0 Headset
+# Headsets
+
+# Controllers
+
+# Accessories
+
+# Persephone 1.0 Headset
 
 I've took a lot of inspiration from Sony's PlaystationVR while designing my own, DiY headset. 
 
