@@ -14,6 +14,7 @@ You can also build the receiver only if you wish to use HadesVR controllers with
 ### Index Controllers
 - #### [Arduino Uno Index Controller](/Controllers/Arduino%20Uno%20Index%20Controller/Uno%20Index.md)
 ### Wand Controllers
+- #### [Official HadesVR Wand Controller](/Controllers/Official%20HadesVR%20Wand%20Controller/HadesVR%20Wand.md)
 - #### [Arduino MEGA2560 Wand Controller](/Controllers/Arduino%20MEGA2560%20Wand%20Controller/Mega%20Wand.md)
 
 ## Accessories
