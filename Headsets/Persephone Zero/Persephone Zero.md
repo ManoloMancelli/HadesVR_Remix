@@ -2,6 +2,8 @@
 
 A DiY, budget VR headset with small, 1.39" displays.
 
+[![1](/Headsets/Persephone%20Zero/img/youtube.png)](https://youtu.be/Mn-C63lw9yE)
+
 ### Components:
 - #### [Display](https://aliexpress.com/item/32975188929.html)
 - #### [Ribbon Extender](https://aliexpress.com/item/1005004283030442.html)
