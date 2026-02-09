@@ -1,14 +1,13 @@
 # Custom Base Stations
-<img src="https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/docs/img/base_board.png" width="600">
+![1](/Accessories/Custom%20PSMove%20Base%20Station/img/Tracking/base_board.png)
 
 This is a purely cosmetic mod. No need to do this if you don't have the skills or don't like how it looks.
 
-
-<img src="https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/docs/img/base_station.png" width="600">
+![1](/Accessories/Custom%20PSMove%20Base%20Station/img/Tracking/base_station.png)
 
 You can get the 3D files [here](https://github.com/ManoloMancelli/HadesVR_Remix/tree/main/3D%20Prints/Base%20Stations)
 
-[![Watch the video](https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/docs/img/yt/base_video.png)](https://youtu.be/boW6VLNxAPs)
+[![Watch the video](/Accessories/Custom%20PSMove%20Base%20Station/img/Tracking/base_video.png)](https://youtu.be/boW6VLNxAPs)
 
 # Features
 
