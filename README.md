@@ -5,9 +5,9 @@ My Remixed version aims for more "streamlined" HadesVR experience.
 
 The setup includes DIY Headset and Controllers. You can also build the receiver only if you wish to use HadesVR controllers with your pre-existing headset.
 
-# Headsets
+## Headsets
 
-# Controllers
+### Controllers
 
 # Accessories
 
