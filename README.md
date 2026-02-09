@@ -8,6 +8,7 @@ The setup includes DIY Headset and Controllers.
 You can also build the receiver only if you wish to use HadesVR controllers with your pre-existing headset.
 
 ## Headsets
+- #### [Persephone Zero](/Headsets/Persephone%20Zero/Persephone%20Zero.md)
 - #### [Persephone 1.0](https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/Headsets/Persephone%201/V1.0.md)
 - #### [Persephone 2.1]()
 - #### [Persephone 3 Pro (Wip)]()
