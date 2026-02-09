@@ -1,16 +1,9 @@
-[![Discord](docs/img/Discord.png)](https://discord.gg/h2SFGEbuRH)
-Official HadesVR Discord [feel free to join.](https://discord.gg/h2SFGEbuRH)
-
 # HadesVR Remix
 HadesVR Remix is a SteamVR compatible VR setup based on original HadesVR. 
 
 My Remixed version aims for more "streamlined" HadesVR experience.
 
-The setup includes DIY Headset and Controllers that emulate HTC vive wands. You can also build the receiver only if you wish to use HadesVR controllers with your pre-existing headset.
-
-HadesVR driver also uses [PSMoveServiceEX](https://github.com/Timocop/PSMoveServiceEx) for the positional tracking of Headset and Controllers, using ping pong balls and different colours of LEDs.
-
-For more information on *everything*, check out the [docs](docs/DocsIndex.md)!
+The setup includes DIY Headset and Controllers. You can also build the receiver only if you wish to use HadesVR controllers with your pre-existing headset.
 
 # Persephone 1.0 Headset
 
