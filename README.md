@@ -10,12 +10,11 @@ You can also build the receiver only if you wish to use HadesVR controllers with
 ## Headsets
 - #### [Persephone 1.0](https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/Headsets/Persephone%201/V1.0.md)
 
-# Controllers
-### Wand Controllers
-- #### [Arduino MEGA2560 Wand Controller](/Controllers/Arduino%20MEGA2560%20Wand%20Controller/Mega%20Wand.md)
+## Controllers
 ### Index Controllers
 - #### [Arduino Uno Index Controller](/Controllers/Arduino%20Uno%20Index%20Controller/Uno%20Index.md)
-
+### Wand Controllers
+- #### [Arduino MEGA2560 Wand Controller](/Controllers/Arduino%20MEGA2560%20Wand%20Controller/Mega%20Wand.md)
 
 ## Accessories
 - #### [Custom PSMove Base Stations](/Accessories/Custom%20PSMove%20Base%20Station/Base%20Station.md)
