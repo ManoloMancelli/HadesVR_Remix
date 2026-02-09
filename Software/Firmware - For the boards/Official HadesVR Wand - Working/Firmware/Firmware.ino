@@ -25,7 +25,7 @@
 
 #define SERIAL_DEBUG
 #define IMU_ADDRESS     0x68                // You can find it out by using the IMUIdentifier example
-MPU6500 IMU;                                // IMU type
+MPU6050 IMU;                                // IMU type
 
 #define RIGHT_CONTROLLER                    // Leave the desired controller role uncommented to set.
 //#define LEFT_CONTROLLER
@@ -121,7 +121,7 @@ bool joyTouch = false;
 //==========================================================================================================
 //**************************************** RF Data stuff ***************************************************
 //==========================================================================================================
-RF24 radio(NRFCE, 10);
+RF24 radio(10, 9);
 
 #ifdef RIGHT_CONTROLLER
 uint64_t Pipe = 0xF0F0F0F0E1LL; //right

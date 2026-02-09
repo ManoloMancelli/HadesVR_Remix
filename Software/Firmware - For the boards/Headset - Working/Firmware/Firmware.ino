@@ -24,7 +24,7 @@
 //==========================================================================================================
 
 #define IMU_ADDRESS     0x68                // You can find it out by using the IMUIdentifier example
-MPU6500 IMU;                                // IMU type
+MPU6050 IMU;                                // IMU type
 //#define COMMON_CATHODE                      // Uncomment this if your LED is common cathode
 #define USE_RF                              // Comment this to disable RF functionality.
 #define IMU_GEOMTERY 6                      // Change to your current IMU geomtery (check FastIMU docs for a reference pic).
