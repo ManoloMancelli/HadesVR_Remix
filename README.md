@@ -7,9 +7,9 @@ The setup includes DIY Headset and Controllers. You can also build the receiver 
 
 ## Headsets
 
-### Controllers
+## Controllers
 
-# Accessories
+## Accessories
 
 # Persephone 1.0 Headset
 
