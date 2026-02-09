@@ -9,5 +9,6 @@ The setup includes DIY Headset and Controllers. You can also build the receiver 
 - #### [Persephone 1.0](https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/Headsets/Persephone%201/V1.0.md)
 
 ## Controllers
+- #### [Arduino Uno Index Controller](/Controllers/Arduino%20Uno%20Index%20Controller/Uno%20Index.md)
 
 ## Accessories
