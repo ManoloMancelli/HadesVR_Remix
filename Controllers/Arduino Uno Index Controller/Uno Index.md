@@ -29,7 +29,7 @@ You might notice a lack of a grip button, it's not needed since we can get the g
 
 ## Controller pinouts are the following:
 
-![1](img/Controller/INDEX.png)
+![1](/Controllers/Arduino%20Uno%20Index%20Controller/img/Wiring.png)
 
 Battery level monitoring is done using a 1k-3.3k resistor divider if you're using a 3.3v arduino. If you're using a 5v arduino with a step up converter you can connect the battery + terminal directly to the A0 analog pin.
 A0 can also be left floating if battery level monitoring is not desired.
