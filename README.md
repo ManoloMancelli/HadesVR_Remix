@@ -10,7 +10,7 @@ You can also build the receiver only if you wish to use HadesVR controllers with
 ## Headsets
 - #### [Persephone Zero](/Headsets/Persephone%20Zero/Persephone%20Zero.md)
 - #### [Persephone 1.0](https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/Headsets/Persephone%201/V1.0.md)
-- #### [Persephone 2.3]()
+- #### [Persephone 2.3](/Headsets/Persephone%202.3/Persephone%202.3.md)
 - #### [Persephone 3 Pro (Wip)]()
 
 ## Controllers
