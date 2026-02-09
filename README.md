@@ -24,3 +24,4 @@ You can also build the receiver only if you wish to use HadesVR controllers with
 
 ## Software
 - [HadesVR Windows Driver](/Software/HadesVR%20Windows%20Driver.md)
+- [PSMoveService](/Software/PSMoveService.md)
