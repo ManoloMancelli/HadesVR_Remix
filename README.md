@@ -22,6 +22,8 @@ You can also build the receiver only if you wish to use HadesVR controllers with
 - #### [Arduino Uno Wand Controller](/Controllers/Arduino%20Uno%20Wand%20Controller/Uno%20Wand.md)
 
 ## Accessories
+- #### HadesVR Controller Dongle (Wip)
+- #### HadesVR Index Controller Development Board (Wip)
 - #### [Custom PSMove Base Stations](/Accessories/Custom%20PSMove%20Base%20Station/Base%20Station.md)
 
 ## Software
