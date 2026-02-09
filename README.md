@@ -12,10 +12,12 @@ You can also build the receiver only if you wish to use HadesVR controllers with
 
 ## Controllers
 ### Index Controllers
+- #### [Persephone Pro Controller](https://github.com/ManoloMancelli/Persephone-Pro-Controller)
 - #### [Arduino Uno Index Controller](/Controllers/Arduino%20Uno%20Index%20Controller/Uno%20Index.md)
 
 ### Wand Controllers
 - #### [Official HadesVR Wand Controller](/Controllers/Official%20HadesVR%20Wand%20Controller/HadesVR%20Wand.md)
+- #### [Persephone Classic Controller](https://github.com/ManoloMancelli/Persephone-Classic-Controller)
 - #### [Arduino MEGA2560 Wand Controller](/Controllers/Arduino%20MEGA2560%20Wand%20Controller/Mega%20Wand.md)
 - #### [Arduino Uno Wand Controller](/Controllers/Arduino%20Uno%20Wand%20Controller/Uno%20Wand.md)
 
