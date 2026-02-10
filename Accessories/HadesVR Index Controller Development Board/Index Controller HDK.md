@@ -8,5 +8,3 @@ It has built-in NRF24L01, JST 1.25 connectors for all of the buttons, FFC connec
 - ### Firmware
 - ### [Changelog](/Accessories/HadesVR%20Index%20Controller%20Development%20Board/Changelog/Changelog.md)
 - ### PCB Files
-- ### STL Files
-- ### CAD Files
