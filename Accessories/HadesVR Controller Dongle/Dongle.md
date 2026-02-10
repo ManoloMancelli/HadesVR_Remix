@@ -8,7 +8,7 @@ It plugs directly into Windows PC.
 
 - ### Assembly Guide
 - ### Firmware
-- ### Changelog
+- ### [Changelog](/Accessories/HadesVR%20Controller%20Dongle/Changelog/Changelog.md)
 - ### PCB Files
 - ### STL Files
 - ### CAD Files
