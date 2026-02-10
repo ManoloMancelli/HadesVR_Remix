@@ -7,7 +7,7 @@ Based on Arduino Pro Micro and NRF24L01.
 It plugs directly into Windows PC.
 
 - ### [Assembly Guide](/Accessories/HadesVR%20Controller%20Dongle/Assembly%20Guide/Assembly%20Guide.md)
-- ### Firmware
+- ### [Firmware](/Accessories/HadesVR%20Controller%20Dongle/Firmware)
 - ### [Changelog](/Accessories/HadesVR%20Controller%20Dongle/Changelog/Changelog.md)
 - ### PCB Files
 - ### STL Files
