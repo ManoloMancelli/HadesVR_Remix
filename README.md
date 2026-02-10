@@ -11,7 +11,7 @@ You can also build the receiver only if you wish to use HadesVR controllers with
 - #### [Persephone Zero](/Headsets/Persephone%20Zero/Persephone%20Zero.md)
 - #### [Persephone 1.0](https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/Headsets/Persephone%201/V1.0.md)
 - #### [Persephone 2.3](/Headsets/Persephone%202.3/Persephone%202.3.md)
-- #### [Persephone 3 Pro (Wip)]()
+- #### Persephone 3 Pro (Wip)
 
 ## Controllers
 ### Index Controllers
@@ -30,5 +30,5 @@ You can also build the receiver only if you wish to use HadesVR controllers with
 - #### [Custom PSMove Base Stations](/Accessories/Custom%20PSMove%20Base%20Station/Base%20Station.md)
 
 ## Software
-- [HadesVR Windows Driver](/Software/HadesVR%20Windows%20Driver.md)
-- [PSMoveService](/Software/PSMoveService.md)
+- #### [HadesVR Windows Driver](/Software/HadesVR%20Windows%20Driver.md)
+- #### [PSMoveService](/Software/PSMoveService.md)
