@@ -1,12 +1,9 @@
 # HadesVR Remix
 HadesVR Remix is a SteamVR compatible VR setup based on original HadesVR. 
 
-My Remixed version aims for more "streamlined" HadesVR experience.
+I've remixed some of the original stuff and also added my own things.
 
-The setup includes DIY Headset and Controllers.
-
-You can also build the receiver only if you wish to use HadesVR controllers with your pre-existing headset.
-
+#### Check out the original GitHub repo [here](https://github.com/HadesVR/HadesVR)
 ## Headsets
 - #### [Persephone Zero](/Headsets/Persephone%20Zero/Persephone%20Zero.md)
 - #### [Persephone 1.0](https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/Headsets/Persephone%201/V1.0.md)
@@ -15,7 +12,7 @@ You can also build the receiver only if you wish to use HadesVR controllers with
 
 ## Controllers
 ### Index Controllers
-- #### [Persephone Pro Controller](https://github.com/ManoloMancelli/Persephone-Pro-Controller)
+- #### [Persephone Pro Controller(Wip)](https://github.com/ManoloMancelli/Persephone-Pro-Controller)
 - #### [Arduino Uno Index Controller](/Controllers/Arduino%20Uno%20Index%20Controller/Uno%20Index.md)
 
 ### Wand Controllers
