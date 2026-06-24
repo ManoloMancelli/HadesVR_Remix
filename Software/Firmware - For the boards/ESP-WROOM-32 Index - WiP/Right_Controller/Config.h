@@ -2,18 +2,18 @@
 //************************************ USER CONFIGURABLE STUFF HERE*****************************************
 //==========================================================================================================
 #define SERIAL_DEBUG
-#define CALPIN              5              //pin to start mag calibration at power on
-#define APin                4
-#define BPin                3
-#define SysPin              5
-#define FingerIndexPin      1
-#define FingerMiddlePin     6
-#define FingerRingPin       7
-#define FingerPinkyPin      8
-#define JoyXPin             A2
-#define JoyYPin             A1
-#define JoyClickPin         2
-#define VbatPin             A6
+
+#define APin                15
+#define BPin                99
+#define SysPin              99
+#define FingerIndexPin      99
+#define FingerMiddlePin     99
+#define FingerRingPin       99
+#define FingerPinkyPin      99
+#define JoyXPin             99
+#define JoyYPin             99
+#define JoyClickPin         99
+#define VbatPin             99
 
 #define BatLevelMax         968             //you need to find all of these values on your own
 #define JoyXMin             212             //check on the utils folder for sketches and instructions

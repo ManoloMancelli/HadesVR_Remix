@@ -20,7 +20,7 @@
 //==========================================================================================================
 //*****************************************Basic Config*****************************************************
 //==========================================================================================================
-RF24 radio(9, 10);  //NRF24L01 Pins
+RF24 radio(4, 5);  //NRF24L01 Pins
 //==========================================================================================================
 
 #define IB_AClick 0x0001
@@ -30,6 +30,9 @@ RF24 radio(9, 10);  //NRF24L01 Pins
 #define IB_SYSClick 0x0010
 #define IB_ThumbStickClick 0x0020
 #define IB_ThumbStickTouch 0x0080
+
+int LED = 22;         // LED Pin
+
 struct ctrlData {
   int16_t qW;
   int16_t qX;
@@ -61,6 +64,11 @@ int axisY;
 bool joyTouch = false;
 
 void setup() {
+
+  RadioLED();
+
+  pinMode(LED, OUTPUT);
+
   Wire.begin();
   Wire.setClock(400000);  //400khz clock
 
@@ -73,7 +81,7 @@ void setup() {
   pinMode(FingerMiddlePin, INPUT_PULLUP);
 
 #ifdef SERIAL_DEBUG
-  Serial.begin(9600);
+  Serial.begin(115200);
 #endif
 
   radio.begin();
@@ -106,7 +114,16 @@ void setup() {
   data.Data = 0x4B3;
 }
 
+void RadioLED(){
+
+}
 void loop() {
+
+  digitalWrite(LED, HIGH);  // turn the LED on (HIGH is the voltage level)
+  delay(1000);
+  digitalWrite(LED, LOW);  // turn the LED on (HIGH is the voltage level)
+  delay(1000);
+
 
   joyTouch = false;
   int btn = 0;
