@@ -31,7 +31,7 @@ RF24 radio(4, 5);  //NRF24L01 Pins
 #define IB_ThumbStickClick 0x0020
 #define IB_ThumbStickTouch 0x0080
 
-int LED = 22;         // LED Pin
+#define Led1Pin       22        // LED Pin
 
 struct ctrlData {
   int16_t qW;
@@ -65,10 +65,6 @@ bool joyTouch = false;
 
 void setup() {
 
-  RadioLED();
-
-  pinMode(LED, OUTPUT);
-
   Wire.begin();
   Wire.setClock(400000);  //400khz clock
 
@@ -79,6 +75,8 @@ void setup() {
   pinMode(FingerPinkyPin, INPUT_PULLUP);
   pinMode(FingerRingPin, INPUT_PULLUP);
   pinMode(FingerMiddlePin, INPUT_PULLUP);
+  pinMode(Led1Pin, OUTPUT);
+  digitalWrite(Led1Pin, HIGH);
 
 #ifdef SERIAL_DEBUG
   Serial.begin(115200);
@@ -94,8 +92,9 @@ void setup() {
 
   if (!radio.isChipConnected()) {
     Serial.println("NRF24L01 Module not detected!");
-    while (true)
-      ;
+    while (true){
+      blinkLEDS(200, 1, false);
+    }
   } else {
     Serial.println("NRF24L01 Module up and running!");
   }
@@ -112,18 +111,14 @@ void setup() {
   data.fingerRing = 0;
   data.fingerPinky = 0;
   data.Data = 0x4B3;
+
+  digitalWrite(Led1Pin, LOW);//turn on LEDS
 }
 
 void RadioLED(){
 
 }
 void loop() {
-
-  digitalWrite(LED, HIGH);  // turn the LED on (HIGH is the voltage level)
-  delay(1000);
-  digitalWrite(LED, LOW);  // turn the LED on (HIGH is the voltage level)
-  delay(1000);
-
 
   joyTouch = false;
   int btn = 0;
@@ -204,4 +199,23 @@ void loop() {
   radio.stopListening();
   radio.write(&data, sizeof(ctrlData));
   radio.startListening();
+}
+
+void blinkLEDS(int speed, int times, bool pattern){
+  if(pattern){
+    for (int i = 0; i <= times; i++) {
+      digitalWrite(Led1Pin, LOW);
+      delay(speed);
+      digitalWrite(Led1Pin, HIGH);
+      delay(speed);
+    }
+    delay(speed*4);
+    return;
+    }
+  for (int i = 0; i <= times; i++) {
+      digitalWrite(Led1Pin, LOW);
+      delay(speed);
+      digitalWrite(Led1Pin, HIGH);
+      delay(speed);
+  }
 }
