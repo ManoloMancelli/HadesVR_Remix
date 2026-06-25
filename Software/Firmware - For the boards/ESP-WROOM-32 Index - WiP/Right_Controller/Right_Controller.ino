@@ -112,12 +112,9 @@ void setup() {
   data.fingerPinky = 0;
   data.Data = 0x4B3;
 
-  digitalWrite(Led1Pin, LOW);//turn on LEDS
+  digitalWrite(Led1Pin, LOW);//turn on LED
 }
 
-void RadioLED(){
-
-}
 void loop() {
 
   joyTouch = false;
