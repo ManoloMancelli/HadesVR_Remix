@@ -11,7 +11,7 @@
 #define FingerRingPin       99
 #define FingerPinkyPin      99
 #define JoyXPin             99
-#define JoyYPin             99
+#define JoyYPin             21
 #define JoyClickPin         99
 #define VbatPin             99
 
