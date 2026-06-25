@@ -4,7 +4,7 @@
 #define SERIAL_DEBUG
 
 #define APin                15
-#define BPin                99
+#define BPin                13
 #define SysPin              99
 #define FingerIndexPin      99
 #define FingerMiddlePin     99
