@@ -10,9 +10,9 @@
 #define FingerMiddlePin     99
 #define FingerRingPin       99
 #define FingerPinkyPin      99
-#define JoyXPin             35
-#define JoyYPin             21
-#define JoyClickPin         34
+#define JoyXPin             99
+#define JoyYPin             99
+#define JoyClickPin         12
 #define VbatPin             99
 
 #define BatLevelMax         968             //you need to find all of these values on your own
