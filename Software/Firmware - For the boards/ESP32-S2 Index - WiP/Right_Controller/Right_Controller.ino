@@ -31,7 +31,7 @@ RF24 radio(4, 5);  //NRF24L01 Pins
 #define IB_ThumbStickClick 0x0020
 #define IB_ThumbStickTouch 0x0080
 
-#define Led1Pin       22        // LED Pin
+#define Led1Pin       15        // LED Pin
 
 struct ctrlData {
   int16_t qW;

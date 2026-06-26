@@ -3,16 +3,16 @@
 //==========================================================================================================
 #define SERIAL_DEBUG
 
-#define APin                15
-#define BPin                33
-#define SysPin              13
+#define APin                99
+#define BPin                99
+#define SysPin              99
 #define FingerIndexPin      99
 #define FingerMiddlePin     99
 #define FingerRingPin       99
 #define FingerPinkyPin      99
 #define JoyXPin             99
 #define JoyYPin             99
-#define JoyClickPin         12
+#define JoyClickPin         38
 #define VbatPin             99
 
 #define BatLevelMax         968             //you need to find all of these values on your own
