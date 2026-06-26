@@ -76,7 +76,7 @@ void setup() {
   pinMode(FingerRingPin, INPUT_PULLUP);
   pinMode(FingerMiddlePin, INPUT_PULLUP);
   pinMode(Led1Pin, OUTPUT);
-  digitalWrite(Led1Pin, HIGH);
+  digitalWrite(Led1Pin, LOW);
 
 #ifdef SERIAL_DEBUG
   Serial.begin(115200);
@@ -112,7 +112,7 @@ void setup() {
   data.fingerPinky = 0;
   data.Data = 0x4B3;
 
-  digitalWrite(Led1Pin, LOW);//turn on LED
+  digitalWrite(Led1Pin, HIGH);//turn on LED
 }
 
 void loop() {

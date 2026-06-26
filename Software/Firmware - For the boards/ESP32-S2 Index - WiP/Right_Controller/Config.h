@@ -3,24 +3,24 @@
 //==========================================================================================================
 #define SERIAL_DEBUG
 
-#define APin                99
-#define BPin                99
-#define SysPin              99
+#define APin                40
+#define BPin                39
+#define SysPin              0
 #define FingerIndexPin      99
 #define FingerMiddlePin     99
 #define FingerRingPin       99
 #define FingerPinkyPin      99
-#define JoyXPin             99
-#define JoyYPin             99
+#define JoyXPin             2
+#define JoyYPin             1
 #define JoyClickPin         38
 #define VbatPin             99
 
-#define BatLevelMax         968             //you need to find all of these values on your own
-#define JoyXMin             212             //check on the utils folder for sketches and instructions
-#define JoyXMax             741             //that help on getting these values
-#define JoyYMin             261             //YOU NEED TO DO THIS FOR BOTH CONTROLLERS
-#define JoyYMax             674             //if you use these values without changing them you MAY
-#define JoyXDeadZoneMin     460             //get stick drift
+#define BatLevelMax         968       
+#define JoyXMin             4000     
+#define JoyXMax             4000       
+#define JoyYMin             4000       
+#define JoyYMax             4000      
+#define JoyXDeadZoneMin     460            
 #define JoyXDeadZoneMax     480
 #define JoyYDeadZoneMin     460
 #define JoyYDeadZoneMax     490
